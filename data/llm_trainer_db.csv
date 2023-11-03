@@ -1,0 +1,1216 @@
+prompt,response
+Mi az eredménye az alábbi kifejezésnek: 2 + 3 * 4 / 2 - 1?,"Az adott kifejezés értékét a matematikai műveletek sorrendjének megfelelően kell kiszámítani. Először végezzük el a szorzást és az osztást, majd a kivonást és az összeadást. Tehát a szorzás és az osztás előrébb van a kivonásnál és az összeadásnál. 
+
+A kifejezésben a szorzás és az osztás van előbb, tehát kezdjük azokkal. 3 * 4 = 12, majd osztás: 12 / 2 = 6. 
+
+Ezután következik a kivonás és az összeadás. 2 + 6 - 1 = 7. Tehát az eredménye az adott kifejezésnek 7."
+"Hány különböző színű autó van egy parkolóban, ahol van 5 piros autó, 3 kék autó és 2 sárga autó?","Ahhoz, hogy megtudjuk, hány különböző színű autó van a parkolóban, össze kell adnunk a különböző színű autók számát. Tehát a piros autók száma 5, a kék autók száma 3, és a sárga autók száma 2.
+
+Ezért a különböző színű autók száma: 5 + 3 + 2 = 10.
+
+Tehát a parkolóban 10 különböző színű autó van."
+"Egy dobozban van 12 alma és 8 narancs. Ha véletlenszerűen kiveszünk egy gyümölcsöt a dobozból, mi a valószínűsége annak, hogy alma lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd az alma kimenetel számát.
+
+Az összes lehetséges kimenetel száma a dobozban lévő gyümölcsök számával egyenlő, tehát 12 + 8 = 20.
+
+Az alma kimenetel száma 12, mert a dobozban 12 alma van.
+
+Ezért a valószínűség, hogy alma lesz: 12 / 20 = 0,6 vagy 60%.
+
+Tehát a valószínűsége annak, hogy alma lesz, 0,6 vagy 60%."
+"Egy szabályos hatoldalú dobókockával dobunk. Mi a valószínűsége annak, hogy egy páratlan számot dobunk?","A szabályos hatoldalú dobókockán a lehetséges kimenetel száma 6, mivel 6 különböző számot dobhatunk.
+
+A páratlan számok száma a dobókockán 3, mivel a páratlan számok 1, 3 és 5.
+
+Ezért a valószínűség, hogy egy páratlan számot dobunk: 3 / 6 = 0,5 vagy 50%.
+
+Tehát a valószínűsége annak, hogy egy páratlan számot dobunk, 0,5 vagy 50%."
+"Egy szupermarketben 1000 doboz tej van, és mindegyik dobozban 1 liter tej van. Egy vásárló véletlenszerűen választ egy dobozt. Mi a valószínűsége annak, hogy a választott dobozban legalább 900 ml tej van?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a dobozok számával egyenlő, tehát 1000.
+
+A kívánt kimenetel azon dobozok száma, amelyekben legalább 900 ml tej van. Mivel minden dobozban pontosan 1 liter tej van, ezért a kívánt kimenetel azon dobozok száma, amelyekben legalább 900 ml tej van, 1000 - 900 = 100.
+
+Ezért a valószínűség, hogy a választott dobozban legalább 900 ml tej van: 100 / 1000 = 0,1 vagy 10%.
+
+Tehát a valószínűsége annak, hogy a választott dobozban legalább 900 ml tej van, 0,1 vagy 10%."
+"Egy könyvtárban 500 könyv van, amelyeket 10 polcra helyeztek el egyenlően. Minden polcon ugyanannyi könyv van. Hány könyv van egy polcon?","Ahhoz, hogy megtudjuk, hány könyv van egy polcon, el kell osztanunk a könyvek összes számát a polcok számával. Tehát 500 könyvet osztunk 10 polccal.
+
+Ezért a könyvek száma egy polcon: 500 / 10 = 50.
+
+Tehát egy polcon 50 könyv van."
+"Egy szobában 6 lámpa van, és mindegyik lámpa két állapotban lehet: bekapcsolt vagy kikapcsolt. Hány különböző kombinációja van az összes lámpa állapotának?","Minden lámpa két állapotban lehet: bekapcsolt vagy kikapcsolt. Tehát minden lámpa esetében 2 lehetséges állapot van.
+
+Mivel a szobában 6 lámpa van, az összes lámpa állapotának különböző kombinációinak száma 2^6 = 64.
+
+Tehát az összes lámpa állapotának 64 különböző kombinációja van."
+"Egy számsorozatban a következő szám mindig a két előző szám összege. Ha a sorozat első két száma 1 és 2, mi a 10. szám a sorozatban?","A számsorozatban a következő szám mindig a két előző szám összege. Tehát a sorozat első két száma 1 és 2.
+
+A sorozatban a harmadik szám az első két szám összege, tehát 1 + 2 = 3.
+
+A negyedik szám a második és a harmadik szám összege, tehát 2 + 3 = 5.
+
+Az ötödik szám az előző két szám összege, tehát 3 + 5 = 8.
+
+A hatodik szám az előző két szám összege, tehát 5 + 8 = 13.
+
+A hetedik szám az előző két szám összege, tehát 8 + 13 = 21.
+
+A nyolcadik szám az előző két szám összege, tehát 13 + 21 = 34.
+
+A kilencedik szám az előző két szám összege, tehát 21 + 34 = 55.
+
+Tehát a 10. szám a sorozatban: 34 + 55 = 89."
+"Egy étteremben 4 féle előétel, 5 féle főétel és 3 féle desszert közül lehet választani. Hány különböző ételkombináció lehetséges?","Az étteremben 4 féle előétel, 5 féle főétel és 3 féle desszert közül lehet választani.
+
+Az ételkombinációk számát meghatározhatjuk úgy, hogy megszorozzuk az előételek, a főételek és a desszertek számát egymással.
+
+Ezért az ételkombinációk száma: 4 * 5 * 3 = 60.
+
+Tehát összesen 60 különböző ételkombináció lehetséges."
+Egy csoportban 10 férfi és 15 nő van. Hány különböző módon lehet kiválasztani egy férfi és egy nő párt?,"A férfiak és nők közül egy férfi és egy nő párt kell kiválasztani.
+
+A férfiak száma 10 és a nők száma 15.
+
+Az egy férfi és egy nő párok számát meghatározhatjuk úgy, hogy megszorozzuk a férfiak számát a nők számával.
+
+Ezért az egy férfi és egy nő párok száma: 10 * 15 = 150.
+
+Tehát összesen 150 különböző módon lehet kiválasztani egy férfi és egy nő párt."
+"Egy számítógép áruházban 3 féle laptop, 4 féle asztali számítógép és 2 féle tablet közül lehet választani. Hány különböző kombinációja van az összes eszköznek?","Az áruházban 3 féle laptop, 4 féle asztali számítógép és 2 féle tablet közül lehet választani.
+
+Az eszközök kombinációinak számát meghatározhatjuk úgy, hogy megszorozzuk a laptopok, az asztali számítógépek és a tabletek számát egymással.
+
+Ezért az eszközök kombinációinak száma: 3 * 4 * 2 = 24.
+
+Tehát összesen 24 különböző kombinációja van az összes eszköznek."
+"Egy cég 10 alkalmazottat foglalkoztat, és minden alkalmazott heti 40 órát dolgozik. Ha az alkalmazottak heti összesen 400 órát dolgoznak, hány órát dolgozik az egyik alkalmazott?","Ahhoz, hogy megtudjuk, hány órát dolgozik az egyik alkalmazott, el kell osztanunk az összes munkaórákat az alkalmazottak számával. Tehát az összes munkaóra 400, és az alkalmazottak száma 10.
+
+Ezért az egyik alkalmazott átlagos heti munkaideje: 400 / 10 = 40.
+
+Tehát az egyik alkalmazott heti 40 órát dolgozik."
+"Egy vállalat 100 alkalmazottal rendelkezik, és szeretnék meghatározni, hogy hány különböző csoportot lehet létrehozni az alkalmazottak között. Egy csoportban legalább 3, de legfeljebb 5 alkalmazott lehet. Hány különböző csoportot lehet létrehozni?","A csoportok számát meghatározhatjuk úgy, hogy megszámoljuk az összes lehetséges csoportot, amelyeket létrehozhatunk a vállalat 100 alkalmazottja között.
+
+Egy csoportban legalább 3 és legfeljebb 5 alkalmazott lehet.
+
+Az összes lehetséges csoportok számát meghatározhatjuk úgy, hogy megszámoljuk az összes lehetséges csoportot, amelyeket létrehozhatunk 3, 4 és 5 alkalmazottból.
+
+Ha egy csoportban 3 alkalmazott van, akkor az alkalmazottak számát kivonjuk az összes alkalmazottak számából: 100 - 3 = 97. Tehát 3 alkalmazottból 97 csoportot hozhatunk létre.
+
+Ha egy csoportban 4 alkalmazott van, akkor az alkalmazottak számát kivonjuk az összes alkalmazottak"
+Egy étteremben 6 féle főételt és 4 féle desszertet kínálnak. Egy vendég választ egy főételt és egy desszertet. Hány különböző ételkombináció lehetséges?,"Az étteremben 6 féle főételt és 4 féle desszertet kínálnak.
+
+Az ételkombinációk számát meghatározhatjuk úgy, hogy megszorozzuk a főételek számát a desszertek számával.
+
+Ezért az ételkombinációk száma: 6 * 4 = 24.
+
+Tehát összesen 24 különböző ételkombináció lehetséges."
+"Egy dobozban 5 piros, 3 kék és 2 zöld golyó van. Ha véletlenszerűen kihúzunk 2 golyót a dobozból anélkül, hogy visszatennénk őket, mi a valószínűsége annak, hogy mindkét golyó piros lesz?","A dobozban összesen 5 piros, 3 kék és 2 zöld golyó van.
+
+Ha véletlenszerűen kihúzunk 2 golyót a dobozból anélkül, hogy visszatennénk őket, akkor az első golyónak 5 piros golyó közül kell lennie, és a második golyónak is 4 piros golyó közül kell lennie.
+
+Az első golyó kihúzásának valószínűsége: 5 / (5 + 3 + 2) = 5 / 10 = 0,5 vagy 50%.
+
+Miután az első golyót kihúztuk, a dobozban 9 golyó marad, amelyek közül 4 piros golyó van.
+
+A második golyó kihúzásának valószínűsége: 4 / (9 + 3 + 2) = 4 / 14 ≈ 0,286 vagy 28,6%.
+
+A két golyó kihúzásának valószínűsége az első és a második g"
+"Egy autógyárban 3 munkás együtt dolgozik. Az első munkás 4 óra alatt készít el egy autót, a második munkás 6 óra alatt, míg a harmadik munkás 8 óra alatt. Mennyi idő alatt készül el egy autó, ha mindhárom munkás együtt dolgozik?","Az adott feladatban azt kell megtudnunk, hogy mennyi idő alatt készül el egy autó, ha mindhárom munkás együtt dolgozik. 
+
+Az első munkás 4 óra alatt készít el egy autót, a második munkás 6 óra alatt, míg a harmadik munkás 8 óra alatt. 
+
+Ha mindhárom munkás együtt dolgozik, akkor a munkaidejüket össze kell adnunk. Tehát 4 + 6 + 8 = 18 óra.
+
+Tehát egy autó elkészítése 18 óra alatt történik, ha mindhárom munkás együtt dolgozik."
+"Egy autó átlagos sebessége 60 km/h. Ha az autó 2 órán keresztül halad, mekkora távolságot tesz meg?","Az autó sebessége 60 km/h, és 2 órán keresztül halad.
+
+Az átlagos sebesség definíciója a megtett távolság és az idő hányadosa. Tehát a megtett távolság egyenlő az átlagos sebesség szorozva az idővel.
+
+Az autó megtett távolsága: 60 km/h * 2 h = 120 km.
+
+Tehát az autó 2 óra alatt 120 kilométert tesz meg."
+"Egy autóversenyen 10 autó indul. Az autók sebessége különböző, és a verseny során nem változik. Az autók a következő sorrendben indulnak: A, B, C, D, E, F, G, H, I, J. A verseny végén az autók a következő sorrendben érkeznek célba: H, F, J, B, D, G, C, I, E, A. Melyik autó érte el a legjobb helyezést a versenyen?","A versenyen az autók a következő sorrendben érkeztek célba: H, F, J, B, D, G, C, I, E, A.
+
+A legjobb helyezést az az autó érte el, amelyik először érkezett célba, vagyis az első helyezett autó.
+
+Az első helyezett autó az E autó, mivel az E autó érkezett először célba a versenyen.
+
+Tehát az E autó érte el a legjobb helyezést a versenyen."
+"Egy dobozban 10 piros golyó és 15 kék golyó van. Véletlenszerűen kiveszünk 2 golyót a dobozból egymás után anélkül, hogy visszatennénk őket. Mi a valószínűsége annak, hogy mindkét golyó kék lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a golyók számával egyenlő. Első lépésben 15 kék golyót választhatunk, majd második lépésben 14 kék golyót választhatunk. Tehát az összes lehetséges kimenetel száma: 15 * 14 = 210.
+
+A kívánt kimenetel azon esetek száma, amikor mindkét golyó kék. Mivel az első lépésben 15 kék golyót választhatunk, majd második lépésben 14 kék golyót választhatunk, ezért a kívánt kimenetel száma: 15 * 14 = 210.
+
+Ezért a valószínűség, hogy mindkét golyó kék lesz: 210 / 210 = 1 vagy"
+"Egy autópályán a sebességkorlátozás 120 km/h. Egy sofőr 2 órán keresztül tartózkodik az autópályán, és az átlagos sebessége 100 km/h. Mennyi időt töltött a sofőr a sebességkorlátozás felett?","Az átlagos sebességet meghatározhatjuk úgy, hogy az összes megtett távolságot elosztjuk az idővel.
+
+Az összes megtett távolság: 100 km/h * 2 óra = 200 km.
+
+Az átlagos sebességet meghatározhatjuk úgy, hogy az összes megtett távolságot elosztjuk az idővel: 200 km / 2 óra = 100 km/h.
+
+Mivel a sebességkorlátozás 120 km/h, és az átlagos sebesség 100 km/h, ezért a sofőr az egész idő alatt a sebességkorlátozás alatt tartózkodott.
+
+Tehát a sofőr nem töltött időt a sebességkorlátozás felett."
+"Egy szabályos hatoldalú dobókockával dobunk. Mi a valószínűsége annak, hogy legalább 4-et dobunk?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma egy szabályos hatoldalú dobókockával 6.
+
+A kívánt kimenetel azon esetek száma, amikor legalább 4-et dobunk. Ez magában foglalja a 4, 5 és 6 dobásokat.
+
+Tehát a kívánt kimenetel száma 3.
+
+Ezért a valószínűség, hogy legalább 4-et dobunk: 3 / 6 = 0,5 vagy 50%.
+
+Tehát a valószínűsége annak, hogy legalább 4-et dobunk, 0,5 vagy 50%."
+"Egy autógyárban 200 munkás dolgozik. Ha minden munkás naponta 8 órát dolgozik, hány munkaóra történik egy hét alatt az autógyárban?","Ahhoz, hogy megtudjuk, hány munkaóra történik egy hét alatt az autógyárban, először meg kell határoznunk, hány órát dolgozik egy munkás egy nap.
+
+Mivel minden munkás naponta 8 órát dolgozik, ezért a munkaórák száma egy nap alatt: 200 munkás * 8 óra = 1600 óra.
+
+Egy hétben 7 nap van, tehát a munkaórák száma egy hét alatt: 1600 óra * 7 nap = 11200 óra.
+
+Tehát egy hét alatt az autógyárban 11200 munkaóra történik."
+"Egy szabályos kockával dobunk. Mi a valószínűsége annak, hogy az eredmény egy páros szám lesz?","Egy szabályos kockával dobunk, amelynek oldalain a számok 1-től 6-ig vannak.
+
+Az összes lehetséges kimenetel száma a kocka oldalainak számával egyenlő, tehát 6.
+
+Azok az eredmények, amelyek páros számokat jelentenek, az alábbiak: 2, 4 és 6.
+
+Ezért a páros eredmények száma: 3.
+
+A valószínűség kiszámításához a páros eredmények számát el kell osztanunk az összes lehetséges kimenetel számával: 3 / 6 = 0,5 vagy 50%.
+
+Tehát a valószínűsége annak, hogy az eredmény egy páros szám lesz, 0,5 vagy 50%."
+"Egy hipermarketben 10000 termék van eladásra kínálva. Az áruk különbözőek, és a termékek között nincs átfedés. Egy vásárló véletlenszerűen választ ki egy terméket. Mi a valószínűsége annak, hogy a vásárló egy elektronikai terméket választ?","Ahhoz, hogy megtudjuk, mi a valószínűsége annak, hogy a vásárló egy elektronikai terméket választ, először meg kell határoznunk az összes lehetséges termék számát, majd az elektronikai termékek számát.
+
+Az összes lehetséges termék száma 10000, mivel 10000 termék van eladásra kínálva.
+
+Az elektronikai termékek száma például 500, mivel 500 elektronikai termék van a hipermarketben.
+
+Ezért a valószínűség, hogy a vásárló egy elektronikai terméket választ: 500 / 10000 = 0,05 vagy 5%.
+
+Tehát a valószínűsége annak, hogy a vásárló egy elektronikai terméket választ, 0,05 vagy 5%."
+"Egy szupermarketben 1000 doboz tej van. Az első nap 200 dobozt adnak el, a második nap 150 dobozt, a harmadik nap 300 dobozt, a negyedik nap 250 dobozt és az ötödik nap 100 dobozt. Hány doboz tej marad a szupermarketben az ötödik nap után?","Az összes eladott doboz tejet meghatározhatjuk úgy, hogy összeadjuk az egyes napokon eladott dobozok számát. Tehát az első nap 200 dobozt adnak el, a második nap 150 dobozt, a harmadik nap 300 dobozt, a negyedik nap 250 dobozt és az ötödik nap 100 dobozt.
+
+Ezért az összes eladott doboz tej: 200 + 150 + 300 + 250 + 100 = 1000.
+
+Az összes doboz tej számát meghatározhatjuk úgy, hogy kivonjuk az összes eladott dobozok számát az összes dobozok számából. Tehát az összes doboz tej száma 1000, és az összes eladott doboz tej száma 1000.
+
+Ezért az ötödik nap után 0 doboz tej marad a szupermarketben."
+"Egy szabályos hatoldalú dobókockával dobunk. Az első dobás eredménye 3, majd minden további dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét. Mi lesz az ötödik dobás eredménye?","Az első dobás eredménye 3, majd minden további dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét.
+
+Az első dobás eredménye 3.
+
+A második dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét, tehát 3 + 3 = 6.
+
+A harmadik dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét, tehát 6 + 6 = 12.
+
+A negyedik dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét, tehát 12 + 12 = 24.
+
+Az ötödik dobásnál a dobott számhoz hozzáadjuk az előző dobás eredményét, tehát 24 + 24 = 48.
+
+Tehát az ötödik dobás eredménye 48 lesz."
+Egy csoport 10 diákot tartalmaz. Hány különböző módon lehet kiválasztani egy 3 fős csoportot a diákok közül?,"Egy csoport 10 diákot tartalmaz, és szeretnénk megtudni, hány különböző módon lehet kiválasztani egy 3 fős csoportot a diákok közül.
+
+A kombinációk számát meghatározhatjuk a kombinációs számítás segítségével. A kombinációs számítás képlete: C(n, k) = n! / (k! * (n-k)!), ahol n a diákok száma, k pedig a csoport tagjainak száma.
+
+Ebben az esetben n = 10 és k = 3, tehát a kombinációk száma: C(10, 3) = 10! / (3! * (10-3)!) = 10! / (3! * 7!) = (10 * 9 * 8) / (3 * 2 * 1) = 120.
+
+Tehát 10 diákból 3 fős csoportot 120 különböző módon lehet kiválasztani."
+"Egy vállalatnál 5 féle álláslehetőség van, és minden állásra 4 jelentkező van. Hány különböző módon lehet kiválasztani egy jelentkezőt az összes állásra?","A vállalatnál 5 féle álláslehetőség van, és minden állásra 4 jelentkező van.
+
+A jelentkezők kiválasztásának számát meghatározhatjuk a kombinációs számítás segítségével. A kombinációs számítás képlete: C(n, k) = n! / (k! * (n-k)!), ahol n a jelentkezők száma, k pedig az állások száma.
+
+Ebben az esetben n = 4 és k = 5, tehát a kombinációk száma: C(4, 5) = 4! / (5! * (4-5)!) = 4! / (5! * (-1)!) = 4! / (5! * 1) = 1 / 5!.
+
+Tehát 5 állásra 4 jelentkezőt 1 / 5! = 1 / (5 * 4 * 3 * 2 * 1) = 1 / 120 ≈ 0,00833 vagy 0,833% valószínűséggel lehet kiválasztani."
+Egy autógyárban 5 féle színű autót és 3 féle típusú motort gyártanak. Hány különböző autót lehet gyártani a választható színek és motorok alapján?,"Az autógyárban 5 féle színű autót és 3 féle típusú motort gyártanak.
+
+Az autók számát meghatározhatjuk úgy, hogy megszorozzuk a színek számát a motorok számával.
+
+Ezért az autók száma: 5 * 3 = 15.
+
+Tehát összesen 15 különböző autót lehet gyártani a választható színek és motorok alapján."
+Egy dobozban 6 piros golyó és 4 kék golyó van. Hány különböző módon lehet kiválasztani 2 golyót a dobozból?,"A dobozban 6 piros golyó és 4 kék golyó van, és szeretnénk megtudni, hány különböző módon lehet kiválasztani 2 golyót a dobozból.
+
+A kombinációk számát meghatározhatjuk a kombinációs számítás segítségével. A kombinációs számítás képlete: C(n, k) = n! / (k! * (n-k)!), ahol n a golyók száma, k pedig a kiválasztott golyók száma.
+
+Ebben az esetben n = 10 és k = 2, tehát a kombinációk száma: C(10, 2) = 10! / (2! * (10-2)!) = 10! / (2! * 8!) = (10 * 9) / (2 * 1) = 45.
+
+Tehát 10 golyóból 2 golyót 45 különböző módon lehet kiválasztani a dobozból."
+"Egy matematikai problémában 3 féle műveletet kell elvégezni: összeadás, kivonás és szorzás. Ha a probléma 5 számot tartalmaz, hány különböző módon lehet elvégezni a műveleteket?","A problémában 3 féle műveletet kell elvégezni: összeadás, kivonás és szorzás. Ha a probléma 5 számot tartalmaz, akkor a műveletek számát meghatározhatjuk úgy, hogy megszámoljuk az összes lehetséges műveleti sorrendet.
+
+Mivel minden műveletet csak egyszer használhatunk, és a műveletek sorrendje is számít, a műveletek száma megegyezik a permutációk számával.
+
+Ezért az összes lehetséges műveleti sorrendek száma: 5! = 5 * 4 * 3 * 2 * 1 = 120.
+
+Tehát 5 számmal a problémában 120 különböző módon lehet elvégezni a műveleteket."
+"Egy szupermarketben 1000 termék van, amelyeket 50 polcra helyeztek el egyenlően. Minden polcon ugyanannyi termék van. Hány termék van egy polcon?","Ahhoz, hogy megtudjuk, hány termék van egy polcon, el kell osztanunk a termékek összes számát a polcok számával. Tehát 1000 terméket osztunk 50 polccal.
+
+Ezért a termékek száma egy polcon: 1000 / 50 = 20.
+
+Tehát egy polcon 20 termék van."
+"Egy városban 5 buszjárat közlekedik. Az első busz óránként indul, a második busz 30 percenként, a harmadik busz 45 percenként, a negyedik busz 1 óránként, az ötödik busz pedig 2 óránként. Ha most 9 óra van, mikor érkezik meg a következő busz a városba?","A következő busz érkezési idejét meghatározhatjuk úgy, hogy megnézzük, melyik busz indulása van a legközelebb a jelenlegi időhöz, majd hozzáadjuk az indulás és az érkezés között eltelt időt.
+
+Az első busz óránként indul, tehát a következő busz érkezése 10 órakor várható.
+
+A második busz 30 percenként indul, tehát a következő busz érkezése 9:30-kor várható.
+
+A harmadik busz 45 percenként indul, tehát a következő busz érkezése 9:45-kor várható.
+
+A negyedik busz 1 óránként indul, tehát a következő busz érkezése 10 órakor várható.
+
+Az ötödik busz 2 óránként indul, tehát"
+"Egy számítógépes játékban 5 különböző pályát kell teljesíteni a következő sorrendben: A, B, C, D, E. Minden pályának van egy nehézségi szintje: könnyű, közepes és nehéz. Hány különböző módon lehet teljesíteni a pályákat?","A pályák sorrendjét meghatározhatjuk úgy, hogy megszorozzuk a nehézségi szintek számát egymással.
+
+Mivel minden pályának 3 nehézségi szintje van, ezért a nehézségi szintek száma: 3 * 3 * 3 * 3 * 3 = 243.
+
+Tehát 5 különböző pályát lehet teljesíteni 243 különböző módon."
+"Egy dobozban 10 piros, 8 kék és 6 zöld golyó van. Ha véletlenszerűen húzunk ki egy golyót a dobozból, mi a valószínűsége annak, hogy piros vagy kék golyót húzunk?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a dobozból való húzás esetén 10 + 8 + 6 = 24, mivel összesen 24 golyó van a dobozban.
+
+A kívánt kimenetel azon esetek száma, amikor piros vagy kék golyót húzunk. Ez magában foglalja a piros és kék golyók számát, vagyis 10 + 8 = 18.
+
+Ezért a valószínűség, hogy piros vagy kék golyót húzunk: 18 / 24 = 0,75 vagy 75%.
+
+Tehát a valószínűsége annak, hogy piros vagy kék golyót húzunk, 0,75 vagy 75%."
+"Egy boltban 4 különböző típusú gyümölcsöt árulnak: alma, banán, narancs és szőlő. Egy vásárló 3 gyümölcsöt választ a boltban. Hány különböző gyümölcskombináció lehetséges?","A boltban 4 különböző típusú gyümölcsöt árulnak: alma, banán, narancs és szőlő.
+
+A gyümölcskombinációk számát meghatározhatjuk úgy, hogy megszámoljuk az összes lehetséges kombinációt, amikor a vásárló 3 gyümölcsöt választ.
+
+Az összes lehetséges kombinációk számát meghatározhatjuk a kombinációk számával, ahol a n elemek közül k elemet választunk.
+
+Ezért az összes lehetséges gyümölcskombinációk száma: C(4, 3) = 4! / (3! * (4-3)!) = 4.
+
+Tehát összesen 4 különböző gyümölcskombináció lehetséges, amikor a vásárló 3 gyümölcsöt választ a boltban."
+"Egy autó elindul egy városból és egyenes vonalban halad. Az autó az első órában 60 km-t megy, a második órában 80 km-t, a harmadik órában 100 km-t, és így tovább. Hány kilométert tesz meg az autó a 10. órában?","Az autó az első órában 60 km-t megy, a második órában 80 km-t, a harmadik órában 100 km-t, és így tovább. Ez azt jelenti, hogy az autó minden órában 20 km-t tesz hozzá az előző órához képest.
+
+Így a 10. órában az autó 60 + (20 * (10 - 1)) = 60 + (20 * 9) = 60 + 180 = 240 km-t tesz meg.
+
+Tehát az autó a 10. órában 240 km-t tesz meg."
+"Egy számítógépes játékban 6 különböző karakter közül választhatunk, és minden karakterhez 4 különböző képesség tartozik. Hány különböző karakter-képesség kombináció lehetséges?","A számítógépes játékban 6 különböző karakter közül választhatunk, és minden karakterhez 4 különböző képesség tartozik. Szeretnénk megtudni, hány különböző karakter-képesség kombináció lehetséges.
+
+A kombinációk számát meghatározhatjuk úgy, hogy megszorozzuk a karakterek számát a képességek számával. Tehát 6 karaktert szorozunk 4 képességgel.
+
+Ezért a karakter-képesség kombinációk száma: 6 * 4 = 24.
+
+Tehát összesen 24 különböző karakter-képesség kombináció lehetséges."
+"Egy autógyárban 3 féle modellt gyártanak: A, B és C. Minden modellhez 5 féle szín közül lehet választani: piros, kék, zöld, fehér és fekete. Hány különböző autókombináció lehetséges?","Az autógyárban 3 féle modellt gyártanak: A, B és C. Minden modellhez 5 féle szín közül lehet választani: piros, kék, zöld, fehér és fekete.
+
+Az autókombinációk számát meghatározhatjuk úgy, hogy megszorozzuk a modellek számát a színek számával.
+
+Ezért az autókombinációk száma: 3 * 5 = 15.
+
+Tehát összesen 15 különböző autókombináció lehetséges."
+"Egy matematikai problémában egy számot 3-mal osztunk, majd az eredményt 2-vel szorozzuk, majd hozzáadunk 5-t. Ha az eredmény 13, mi volt az eredeti szám?","A matematikai problémában egy számot 3-mal osztunk, majd az eredményt 2-vel szorozzuk, majd hozzáadunk 5-t.
+
+Legyen az eredeti szám x.
+
+A probléma lépései alapján az egyenletünk a következőképpen írható fel: ((x / 3) * 2) + 5 = 13.
+
+Először elvégezzük a zárójeles műveleteket: (x / 3) * 2 + 5 = 13.
+
+A következő lépésben elvégezzük a szorzást: (2x / 3) + 5 = 13.
+
+Ezután elvonjuk az egyenlet mindkét oldaláról az 5-öt: (2x / 3) = 8.
+
+Végül megszorozzuk mindkét oldalt 3-mal, hogy megszabaduljunk a tört alakból: 2x = 24.
+
+Az utolsó lépésben elosztjuk mindkét oldalt 2-vel, hogy megtudjuk az eredeti számot: x = 12.
+
+Tehát az eredeti szám 12 volt."
+"Egy üzletben 5 féle gyümölcs közül lehet választani: alma, banán, narancs, szilva és szőlő. Minden gyümölcsből 3-3 darab van. Ha véletlenszerűen választunk ki 4 gyümölcsöt, mennyi a valószínűsége annak, hogy legalább 2 alma van közöttük?","A valószínűség kiszámításához először meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a gyümölcsök kiválasztása esetén 5 választásból 4 gyümölcsöt kiválasztva: C(5, 4) = 5.
+
+A kívánt kimenetel azon esetek száma, amikor legalább 2 alma van közöttük. Ez magában foglalja az 1 alma és 3 másik gyümölcs, valamint 2 alma és 2 másik gyümölcs esetét.
+
+Az 1 alma és 3 másik gyümölcs esetében az alma lehet az első, második, harmadik vagy negyedik választott gyümölcs. Tehát 4 lehetőség van az alma elhelyezésére, és a többi gyümölcsöt a hátralévő 3-b"
+"Egy matematikai feladatban 10 pontot lehet elérni. Egy diák 5 feladatot oldott meg, és a pontszámai a következők: 8, 9, 7, 6, 10. Mi a diák átlagos pontszáma?","A diák átlagos pontszámát meghatározhatjuk úgy, hogy összeadjuk az összes pontszámot, majd elosztjuk az összes feladat számával.
+
+Az összes pontszám: 8 + 9 + 7 + 6 + 10 = 40.
+
+Az összes feladat száma: 5.
+
+Az átlagos pontszám meghatározható úgy, hogy az összes pontszámot elosztjuk az összes feladat számával: 40 / 5 = 8.
+
+Tehát a diák átlagos pontszáma 8."
+"Egy szabályos kockával dobunk. Mi a valószínűsége annak, hogy páratlan számot dobunk?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Egy szabályos kockával dobva az összes lehetséges kimenetel száma 6, mivel a kocka oldalain 1-től 6-ig vannak számok.
+
+A kívánt kimenetel azon esetek száma, amikor páratlan számot dobunk. Ez magában foglalja az 1, 3 és 5 dobásokat.
+
+Tehát a kívánt kimenetel száma 3.
+
+Ezért a valószínűség, hogy páratlan számot dobunk: 3 / 6 = 0,5 vagy 50%.
+
+Tehát a valószínűsége annak, hogy páratlan számot dobunk, 0,5 vagy 50%."
+"Egy számtani sorozatban az első tag 3, és a különbség 4. Mi a 10. tag értéke?","A számtani sorozatban az első tag 3, és a különbség 4. Tehát a sorozatban a tagok értékei az alábbiak szerint alakulnak:
+
+1. tag: 3
+2. tag: 3 + 4 = 7
+3. tag: 7 + 4 = 11
+4. tag: 11 + 4 = 15
+5. tag: 15 + 4 = 19
+6. tag: 19 + 4 = 23
+7. tag: 23 + 4 = 27
+8. tag: 27 + 4 = 31
+9. tag: 31 + 4 = 35
+10. tag: 35 + 4 = 39
+
+Tehát a 10. tag értéke 39."
+"Egy étteremben 6 féle előétel, 8 féle főétel és 4 féle desszert közül lehet választani. Hány különböző ételt lehet összeállítani, ha minden étkezéshez egy előételt, egy főételt és egy desszertet kell választani?","Az étteremben 6 féle előétel, 8 féle főétel és 4 féle desszert közül lehet választani.
+
+Az étkezés összeállításának számát meghatározhatjuk úgy, hogy megszorozzuk az előételek, főételek és desszertek számát egymással.
+
+Ezért az étkezések száma: 6 * 8 * 4 = 192.
+
+Tehát összesen 192 különböző ételt lehet összeállítani az előételek, főételek és desszertek közül."
+"Egy számítógépes játékban a játékosnak 3 életet adnak kezdetben. Ha a játékos elveszíti az összes életét, akkor a játék véget ér. A játékos minden egyes körben 1 élet veszít. Ha a játékosnak van legalább 1 élete, akkor a játék folytatódik. Mi a valószínűsége annak, hogy a játékosnak legalább 2 élete van a 7. kör végén?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a körök számával egyenlő, tehát 7.
+
+A kívánt kimenetel azon körök száma, amikor a játékosnak legalább 2 élete van. Ez magában foglalja az 1 élet és 6-ot, valamint a 2 élet és 5-öt, valamint a 3 élet és 4-et.
+
+Az 1 élet és 6-ot körben az élet lehet az első, második, harmadik, negyedik, ötödik vagy hatodik. Tehát 6 lehetőség van az élet elhelyezésére, és a tö"
+"Egy szupermarketben 5 féle gyümölcs közül lehet választani: alma, banán, narancs, szőlő és körte. Egy vásárló 3 különböző gyümölcsöt vásárol. Hány különböző módon választhatja ki a gyümölcsöket?","A vásárló 3 különböző gyümölcsöt vásárolhat az 5 féle gyümölcs közül. Ahhoz, hogy meghatározzuk, hány különböző módon választhatja ki a gyümölcsöket, használhatjuk a kombinatorikai számításokat.
+
+A kombinatorikai számítások szerint a különböző elemek közül k elemet választva a választások száma a következő képlettel számolható: C(n, k) = n! / (k! * (n-k)!)
+
+Ahol n a lehetséges elemek száma, és k a választandó elemek száma.
+
+Ebben az esetben n = 5 (azaz 5 féle gyümölcs közül választhatunk) és k = 3 (azaz 3 különböző gyümölcsöt kell választanunk).
+
+Így a választások száma: C(5, 3) = 5! / (3! * (5-3)!) = 5! / (3"
+"Egy szupermarketben 5 féle gyümölcs közül lehet választani: alma, banán, narancs, szőlő és körte. Egy vásárló 2 gyümölcsöt választ véletlenszerűen. Mi a valószínűsége annak, hogy mindkét gyümölcs ugyanaz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a választandó gyümölcsök számával egyenlő. Tehát 5 féle gyümölcs közül 2 gyümölcsöt választunk, amihez használhatjuk a kombinációs számítást.
+
+A kombinációs számítás képlete: C(n, k) = n! / (k! * (n-k)!), ahol n a lehetséges elemek száma, és k a választandó elemek száma.
+
+Ebben az esetben n = 5 (azaz 5 féle gyümölcs közül választhatunk) és k = 2 (azaz 2 gyümölcsöt választunk).
+
+A választások száma: C(5, 2) = 5! / (2! * (5-2)!) = 5! / (2! *"
+"Egy dobozban van 8 piros golyó és 4 kék golyó. Ha véletlenszerűen kiveszünk 2 golyót a dobozból anélkül, hogy visszatennénk őket, mi a valószínűsége annak, hogy mindkét golyó piros lesz?","A valószínűséget kiszámíthatjuk úgy, hogy meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+A dobozban összesen 8 piros golyó és 4 kék golyó van.
+
+Először kiveszünk egy golyót a dobozból. Ekkor 12 golyóból választhatunk.
+
+Miután kivettünk egy piros golyót, a dobozban 7 piros golyó és 4 kék golyó marad.
+
+Ezután kiveszünk még egy golyót a dobozból. Ekkor 11 golyóból választhatunk.
+
+A kívánt kimenetel azon esetek száma, amikor mindkét golyó piros.
+
+Ez a következőképpen számolható: (8/12) * (7/11) = 56/132 = 14/33.
+
+Tehát a valószínűség, hogy mindkét golyó piros lesz: 14/33.
+
+Tehát a valósz"
+"Egy boltban 5 féle póló közül lehet választani: piros, kék, zöld, sárga és fekete. Egy vásárló 3 pólót választ véletlenszerűen. Mi a valószínűsége annak, hogy a vásárló legalább egy piros pólót választ?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a választandó pólók számával egyenlő. Tehát 5 féle póló közül 3 pólót választunk, amihez használhatjuk a kombinációs számítást.
+
+A kombinációs számítás képlete: C(n, k) = n! / (k! * (n-k)!), ahol n a lehetséges elemek száma, és k a választandó elemek száma.
+
+Ebben az esetben n = 5 (azaz 5 féle póló közül választhatunk) és k = 3 (azaz 3 pólót választunk).
+
+A választások száma: C(5, 3) = 5! / (3! * (5-3)!) = 5! / (3! * 2!) = (5"
+"Egy szabályos pakliból kihúzunk véletlenszerűen egy lapot. Ha a kihúzott lap piros, akkor azt visszatesszük a pakliba és újra húzunk. Ha a kihúzott lap fekete, akkor azt félretesszük és újra húzunk. Mi a valószínűsége annak, hogy az első fekete lapot a második húzás során kapjuk meg?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a lapok számával egyenlő. Tehát a pakliban lévő lapok száma az első húzás előtt 52.
+
+A kívánt kimenetel azon esetek száma, amikor az első fekete lapot a második húzás során kapjuk meg. Az első húzásnál a kihúzott lap piros, tehát azt visszatesszük a pakliba és újra húzunk. Az újra húzásnál a kihúzott lapok között már nincs a piros lap, tehát csak fekete lapok vannak. Tehát a kívánt kimenetel száma:"
+"Egy dobozban van 10 piros, 8 kék és 6 zöld golyó. Véletlenszerűen kihúzunk egy golyót, majd visszatesszük a dobozba, majd újra kihúzunk egy golyót. Mi a valószínűsége annak, hogy mindkét kihúzott golyó piros lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a golyók számával egyenlő. Tehát a dobozban lévő golyók száma az első húzás előtt 24.
+
+A kívánt kimenetel azon esetek száma, amikor mindkét kihúzott golyó piros lesz. Az első húzásnál 10 piros golyó van a 24-ből, tehát a kívánt kimenetel száma 10. Miután visszatettük az első golyót, a második húzásnál ismét 10 piros golyó van a 24-ből, tehát a kívánt kimenetel száma 10.
+
+Tehát a valószínűség, hogy mindkét kihúzott goly"
+"Egy geometriai sorozatban az első tag 2, és a hányados 3. Mi a 6. tag értéke?","A geometriai sorozatban az első tag 2, és a hányados 3. Tehát a sorozatban a tagok értékei az alábbiak szerint alakulnak:
+
+1. tag: 2
+2. tag: 2 * 3 = 6
+3. tag: 6 * 3 = 18
+4. tag: 18 * 3 = 54
+5. tag: 54 * 3 = 162
+6. tag: 162 * 3 = 486
+
+Tehát a 6. tag értéke 486."
+"Egy autógyártó vállalat 3 különböző típusú autót gyárt: A, B és C. Az A típusú autóból 100 darabot, a B típusú autóból 200 darabot, míg a C típusú autóból 300 darabot gyártanak. Egy vásárló véletlenszerűen választ egy autót. Mi a valószínűsége annak, hogy egy B típusú autót választ?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a gyártott autók számával egyenlő, tehát 100 + 200 + 300 = 600.
+
+A kívánt kimenetel azon autók száma, amelyek B típusúak. Mivel 200 darab B típusú autót gyártanak, ezért a kívánt kimenetel száma 200.
+
+Ezért a valószínűség, hogy egy B típusú autót választanak: 200 / 600 = 1/3 vagy kb. 0,3333 vagy 33,33%.
+
+Tehát a valószínűsége annak, hogy egy B típusú autót választanak, 1/3 vagy kb"
+"Egy dobozban van 10 piros golyó és 5 kék golyó. Ha véletlenszerűen kiveszünk 2 golyót a dobozból egymás után, mennyi a valószínűsége annak, hogy mindkét golyó piros?","A valószínűség kiszámításához először meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a golyók kiválasztása esetén 15 golyóból 2 golyót kiválasztva: C(15, 2) = 105.
+
+A kívánt kimenetel azon esetek száma, amikor mindkét golyó piros. Mivel 10 piros golyó van a dobozban, a kívánt kimenetel száma: C(10, 2) = 45.
+
+Tehát a valószínűség annak, hogy mindkét golyó piros, 45/105 = 9/21 = 3/7."
+"Egy szabályos hatoldalú dobókockával dobunk. A dobott számokat összeadjuk, majd az eredményt megszorozzuk 2-vel. Mi lesz az eredmény, ha a dobások eredményei 3, 4 és 5?","A szabályos hatoldalú dobókockával dobunk, majd a dobott számokat összeadjuk, majd az eredményt megszorozzuk 2-vel.
+
+Az első dobás eredménye 3, a második dobás eredménye 4, és a harmadik dobás eredménye 5.
+
+Az eredmény meghatározásához összeadjuk a dobott számokat: 3 + 4 + 5 = 12.
+
+Ezután az eredményt megszorozzuk 2-vel: 12 * 2 = 24.
+
+Tehát az eredmény, ha a dobások eredményei 3, 4 és 5, 24 lesz."
+Egy boltban egy termék eredeti ára 5000 forint. A boltban most akciósan 20% kedvezménnyel kínálják. Mennyibe kerül a termék az akcióban?,"Az eredeti ára a terméknek 5000 forint. Az akcióban a termék 20% kedvezménnyel kínálják.
+
+A kedvezmény mértéke az eredeti ár alapján számítódik ki. Tehát a kedvezmény összege: 5000 * 20% = 5000 * 0,2 = 1000 forint.
+
+Az akciós ár meghatározásához az eredeti árat és a kedvezményt el kell vonni egymástól: 5000 - 1000 = 4000 forint.
+
+Tehát az akcióban a termék 4000 forintba kerül."
+"Egy számítógépes játékban 5 különböző fegyver közül lehet választani: kard, íj, varázspálca, buzogány és nyílpuska. Egy játékos véletlenszerűen választ egy fegyvert. Mi a valószínűsége annak, hogy a játékos vagy kardot, vagy varázspálcát választ?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a választható fegyverek számával egyenlő, tehát 5.
+
+A kívánt kimenetel azon esetek száma, amikor a játékos vagy kardot, vagy varázspálcát választ. Ez magában foglalja azokat az eseteket, amikor a játékos kardot választ, valamint azokat az eseteket, amikor a játékos varázspálcát választ.
+
+Mivel a kard és a varázspálca két különböző fegyver, ezért a kívánt kimenetel száma 2.
+
+Ezért a valószínűség, hogy a játékos vagy kardot, vagy varáz"
+"Egy autó 100 km/h sebességgel halad. Ha az autó 3 órán keresztül tartja ezt a sebességet, mekkora távolságot tesz meg?","Az autó sebességét és az időt figyelembe véve meghatározhatjuk, mekkora távolságot tesz meg az autó.
+
+Az autó sebessége: 100 km/h.
+
+Az idő, amíg az autó tartja ezt a sebességet: 3 óra.
+
+A távolság meghatározható úgy, hogy az autó sebességét megszorozzuk az idővel: 100 km/h * 3 óra = 300 km.
+
+Tehát az autó 3 óra alatt 300 km-t tesz meg."
+"Egy cég 5 alkalmazottat foglalkoztat. Minden alkalmazott heti 40 órát dolgozik. Az alkalmazottak heti fizetése az alábbiak szerint alakul: az első alkalmazott óránként 10 dollárt kap, a második alkalmazott óránként 12 dollárt kap, a harmadik alkalmazott óránként 15 dollárt kap, a negyedik alkalmazott óránként 18 dollárt kap, és az ötödik alkalmazott óránként 20 dollárt kap. Mennyi a cég heti összesített bérköltsége?","Az alkalmazottak heti fizetése az alkalmazottak számának és az órabérüknek a szorzata. Tehát először meg kell határoznunk az alkalmazottak számát, majd az órabérüket, majd pedig megszorozzuk őket egymással.
+
+Az alkalmazottak száma 5.
+
+Az alkalmazottak órabérét az adott órabér és a heti munkaórák szorzatával kaphatjuk meg. Tehát az első alkalmazott heti fizetése: 10 * 40 = 400 dollár, a második alkalmazotté: 12 * 40 = 480 dollár, a harmadik alkalmazotté: 15 *"
+Egy négyzet oldalhossza 5 cm. Mi a négyzet területe és kerülete?,"A négyzet oldalhossza 5 cm.
+
+A négyzet területét a négyzet oldalhosszának négyzetével számolhatjuk. Tehát a terület: 5 cm * 5 cm = 25 cm^2.
+
+A négyzet kerületét pedig a négyzet oldalhosszának négyszeresével számolhatjuk. Tehát a kerület: 4 * 5 cm = 20 cm.
+
+Tehát a négyzet területe 25 cm^2, és a kerülete 20 cm."
+"Egy cég 100 alkalmazottal rendelkezik, akik közül 40 nő és 60 férfi. A cégben a nők átlagosan 500 000 Ft-ot keresnek havonta, míg a férfiak átlagosan 600 000 Ft-ot keresnek havonta. Mi az átlagos havi fizetés a cégben?","A cégnek 100 alkalmazottja van, közülük 40 nő és 60 férfi. A nők átlagosan 500 000 Ft-ot keresnek havonta, míg a férfiak átlagosan 600 000 Ft-ot keresnek havonta.
+
+Az átlagos havi fizetés meghatározásához először meg kell számolnunk, hogy hány nő és hány férfi dolgozik a cégnél, majd meg kell szoroznunk a keresetüket az alkalmazottak számával. Ezután összeadjuk a két csoport keresetét és elosztjuk az alkalmazottak számával.
+
+A nők fizetése: 40 * 500 000 Ft = 20 000 000 Ft.
+
+A férfiak fizetése: 60 * 600 000 Ft = 36 000 000 Ft.
+
+Az alkalmazottak száma: 40 + 60 = 100.
+
+Az átlagos havi fizetés: (20 000 000 Ft + 36 000 000 Ft) / 100 = 560"
+"Egy vállalatnak 100 alkalmazottja van, akik közül 60-an férfiak és 40-en nők. Az alkalmazottak közül 30-an rendelkeznek diplomával, és közülük 20-an férfiak. Ha véletlenszerűen kiválasztunk egy alkalmazottat, mi a valószínűsége annak, hogy a kiválasztott alkalmazott férfi és diplomás?","A valószínűséget kiszámíthatjuk úgy, hogy meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma az alkalmazottak számával egyenlő, tehát 100.
+
+A kívánt kimenetel azon alkalmazottak száma, akik férfiak és diplomával rendelkeznek. Ez a 20 férfi diplomás alkalmazott.
+
+Tehát a valószínűség, hogy a kiválasztott alkalmazott férfi és diplomás: 20/100 = 1/5.
+
+Tehát a valószínűség, hogy a kiválasztott alkalmazott férfi és diplomás, 1/5."
+"Egy szabályos kockával dobunk. Az első dobás eredménye 3, majd a második dobás eredménye 6. Mi a valószínűsége annak, hogy a harmadik dobás eredménye páratlan szám lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Egy szabályos kockával dobva az összes lehetséges kimenetel száma 6, mivel a kocka oldalain 1-től 6-ig vannak számok.
+
+Az első dobás eredménye 3, majd a második dobás eredménye 6. Tehát a harmadik dobásnál csak az 1, 2, 4 vagy 5 lehet eredmény.
+
+Ezért a kívánt kimenetel száma 4.
+
+Tehát a valószínűség, hogy a harmadik dobás eredménye páratlan szám lesz: 4 / 6 = 2 / 3.
+
+Tehát a valószínűsége annak, hogy a harmadik dobás eredménye páratlan szám lesz, 2 / 3 vagy 0,67 vagy 67%."
+Egy számítógépüzletben 3 féle laptopot és 4 féle monitorot árulnak. Egy vásárló egy laptopot és egy monitorot szeretne vásárolni. Hány különböző kombinációja lehet a vásárlásnak?,"A számítógépüzletben 3 féle laptopot és 4 féle monitorot árulnak.
+
+A kombinációk számát meghatározhatjuk úgy, hogy megszorozzuk a laptopok számát a monitorok számával.
+
+Ezért a kombinációk száma: 3 * 4 = 12.
+
+Tehát összesen 12 különböző kombinációja lehet a vásárlásnak."
+Egy szupermarketben egy termék ára 10.000 forint. Az ár 5%-kal csökkentették. Mennyibe kerül most a termék?,"Az eredeti ár 10.000 forint.
+
+Az árat 5%-kal csökkentették, tehát a csökkentett ár meghatározható úgy, hogy az eredeti árat megszorozzuk 0,95-tel.
+
+A csökkentett ár: 10.000 forint * 0,95 = 9.500 forint.
+
+Tehát a termék most 9.500 forintba kerül."
+"Egy bankban 1000 forintot szeretnék befektetni. Az első évben a kamat 5%, a második évben 7%, a harmadik évben pedig 10%. Mennyi lesz az összes pénzem a befektetés végén?","Az összes pénz a befektetés végén kiszámítható úgy, hogy megszorozzuk a befektetett összeget az egyes évek kamatával, majd hozzáadjuk a befektetett összeget.
+
+Az első évben a kamat 5%, tehát a befektetett összeg 1000 forintot 5%-kal kell megszorozni: 1000 * 0,05 = 50 forint.
+
+Ezután hozzáadjuk a befektetett összeget: 1000 + 50 = 1050 forint.
+
+A második évben a kamat 7%, tehát az előző évben kapott összeget 7%-kal kell megszorozni: 1050 * 0,07 = 73,5 forint.
+
+Ezután hozzáadjuk az előző évben kapott összeget: 1050 + 73,5 = 1123,5 forint.
+
+A harmadik évben a kamat 10%, tehát az előző évben kapott összeget 10%-kal kell megszorozni: 1123,5 * 0,10 = 112,35 forint.
+
+Ezután hozzáadj"
+"Egy szupermarketben 10 féle gyümölcs van. Egy vásárló 3 gyümölcsöt választ véletlenszerűen. Mi a valószínűsége annak, hogy legalább 2 gyümölcs ugyanaz lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a választható gyümölcsök számának köbmérete, tehát 10^3 = 1000.
+
+A kívánt kimenetel azon esetek száma, amikor legalább 2 gyümölcs ugyanaz lesz. Ez a következő eseteket tartalmazza:
+- Az első és a második gyümölcs ugyanaz, a harmadik különböző.
+- Az első és a harmadik gyümölcs ugyanaz, a második különböző.
+- A második és a harmadik gyümölcs ugyanaz, az első különböző.
+- Mindhárom gyümölcs ugyanaz.
+
+Az első esetben 10 választási lehetőségünk van az első gyümölcsre, majd 10 lehetőség a második gyümölcsre (mert ugyanaz lehet, mint az"
+Egy dobozban 6 piros golyó és 4 kék golyó van. Hány különböző módon lehet kiválasztani 2 golyót a dobozból?,"A dobozban 6 piros golyó és 4 kék golyó van.
+
+A különböző módon kiválasztható golyók számát meghatározhatjuk úgy, hogy megszorozzuk a piros golyók számát a kék golyók számával.
+
+Ezért a különböző módon kiválasztható golyók száma: 6 * 4 = 24.
+
+Tehát összesen 24 különböző módon lehet kiválasztani 2 golyót a dobozból."
+"Egy szupermarketben 4 féle üdítőital közül lehet választani: cola, narancs, citrom és szőlő. Egy vásárló 2 különböző üdítőitalt szeretne vásárolni. Hány különböző módon választhatja ki az üdítőitalokat?","A vásárló 2 különböző üdítőitalt választhat a 4 féle üdítőital közül.
+
+A kombinatorikai számítások szerint a különböző elemek közül k elemet választva a választások száma a következő képlettel számolható: C(n, k) = n! / (k! * (n-k)!)
+
+Ahol n a lehetséges elemek száma, és k a választandó elemek száma.
+
+Ebben az esetben n = 4 (azaz 4 féle üdítőital közül választhatunk) és k = 2 (azaz 2 különböző üdítőitalt kell választanunk).
+
+Így a választások száma: C(4, 2) = 4! / (2! * (4-2)!) = 4! / (2 * 2) = 24 / 4 = 6.
+
+Tehát a vásárlónak 6 különböző módon lehet választani az üdítőitalokat."
+Egy számítógépüzletben 3 féle laptopot és 4 féle monitorot árulnak. Egy vásárló 2 laptopot és 1 monitort szeretne vásárolni. Hány különböző kombinációja lehet a vásárlásnak?,"A számítógépüzletben 3 féle laptopot és 4 féle monitorot árulnak.
+
+A kombinációk számát meghatározhatjuk úgy, hogy megszorozzuk a laptopok számát a laptopok számával, majd megszorozzuk a monitorok számával.
+
+Ezért a kombinációk száma: 3 * 3 * 4 = 36.
+
+Tehát összesen 36 különböző kombinációja lehet a vásárlásnak."
+"Egy csoportban 20 diák van, akik közül 10 fiú és 10 lány. Az osztályban véletlenszerűen kiválasztunk 3 diákot. Mi a valószínűsége annak, hogy mindhárom diák fiú lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a diákok számával egyenlő. Első lépésben 10 fiút választhatunk, majd második lépésben 9 fiút választhatunk, majd harmadik lépésben 8 fiút választhatunk. Tehát az összes lehetséges kimenetel száma: 10 * 9 * 8 = 720.
+
+A kívánt kimenetel azon esetek száma, amikor mindhárom diák fiú. Mivel az első lépésben 10 fiút választhatunk, majd második lépésben 9 fiút választhatunk, majd harmadik lépésben 8 fiút választhatunk, ezért a kívánt kimenetel száma: 10 * 9 * 8 = 720.
+
+Ezért a valószínűség, hogy"
+Egy vállalat 10 alkalmazottat foglalkoztat. Az alkalmazottak fizetése hetente 5000 forint. Hány forintot fizet ki a vállalat alkalmazottainak egy hónapban?,"Az alkalmazottak heti fizetését és a hónapban lévő hetek számát figyelembe véve meghatározhatjuk, hogy mennyi pénzt fizet ki a vállalat alkalmazottainak egy hónapban.
+
+Az alkalmazottak heti fizetése: 5000 forint.
+
+A hónapban lévő hetek száma általában 4, de néha 5 is lehet.
+
+Ezért a vállalat által fizetett összeg: 5000 forint * 4 hét = 20000 forint.
+
+Tehát a vállalat által fizetett összeg egy hónapban 20000 forint."
+"Egy téglatestnek a hosszúsága 6 cm, szélessége 4 cm és magassága 3 cm. Mi a téglatest térfogata?","A téglatest térfogatát a hosszúság, szélesség és magasság szorzatával lehet kiszámítani.
+
+A téglatest hosszúsága 6 cm, szélessége 4 cm és magassága 3 cm.
+
+Tehát a téglatest térfogata: 6 * 4 * 3 = 72 cm^3.
+
+Tehát a téglatest térfogata 72 cm^3."
+Egy városban 1000 férfi és 800 nő él. Az emberek 20%-a 18 év alatti. Hány 18 év alatti férfi él a városban?,"Az emberek 20%-a 18 év alatti, tehát a városban élő emberek számának 20%-a 18 év alatti. Az emberek számát az alábbiak szerint számíthatjuk ki:
+
+Férfiak száma: 1000
+Nők száma: 800
+
+Az emberek száma: 1000 + 800 = 1800
+
+Az 18 év alatti emberek száma: 1800 * 0,2 = 360
+
+Az 18 év alatti férfiak száma a városban: 360 * (1000 / 1800) = 200.
+
+Tehát a városban 200 18 év alatti férfi él."
+Egy autó 60 km/h sebességgel halad. Mennyi idő alatt tesz meg 180 kilométert?,"Az autó sebessége 60 km/h, és 180 kilométert kell megtennie.
+
+Az idő kiszámításához a távolságot el kell osztani a sebességgel.
+
+Tehát az idő = távolság / sebesség.
+
+Az idő = 180 km / 60 km/h = 3 óra.
+
+Tehát az autó 3 óra alatt teszi meg a 180 kilométeres távolságot."
+"Egy dobozban 10 piros és 15 kék golyó van. Ha véletlenszerűen kiveszünk egy golyót a dobozból, mi a valószínűsége annak, hogy piros golyót húzunk?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+A dobozban összesen 10 piros és 15 kék golyó van, tehát összesen 25 golyó.
+
+Az összes lehetséges kimenetel száma 25, mivel 25 golyó van a dobozban.
+
+A kívánt kimenetel azon esetek száma, amikor piros golyót húzunk. Ez magában foglalja az összes piros golyó számát, ami 10.
+
+Tehát a kívánt kimenetel száma 10.
+
+Ezért a valószínűség, hogy piros golyót húzunk: 10 / 25 = 0,4 vagy 40%.
+
+Tehát a valószínűsége annak, hogy piros golyót húzunk, 0,4 vagy 40%."
+"Egy matematikai feladatban 3 ismeretlen számot kell meghatározni. Az első szám 2-vel nagyobb, mint a második szám, a második szám pedig 3-mal nagyobb, mint a harmadik szám. Ha az összegük 15, melyik számokról van szó?","A matematikai feladatban 3 ismeretlen számot kell meghatározni. Az első szám 2-vel nagyobb, mint a második szám, a második szám pedig 3-mal nagyobb, mint a harmadik szám.
+
+Legyen a harmadik szám x.
+
+A második szám akkor lesz 3-mal nagyobb, mint a harmadik szám, ha x + 3.
+
+Az első szám akkor lesz 2-vel nagyobb, mint a második szám, ha x + 3 + 2 = x + 5.
+
+Az ismert adatok alapján az összegük 15, tehát x + (x + 3) + (x + 5) = 15.
+
+Ez egyszerűsíthető: 3x + 8 = 15.
+
+Ezután kivonjuk mindkét oldalról az 8-at: 3x = 7.
+
+Végül elosztjuk mindkét oldalt 3-mal: x = 7/3.
+
+Tehát a harmadik szám 7/3, a második sz"
+Egy autó 60 km/h sebességgel halad. Mennyi idő alatt tesz meg 180 kilométert?,"Az autó 60 km/h sebességgel halad.
+
+Az időt, amire az autó megteszi a távolságot, meghatározhatjuk úgy, hogy elosztjuk a távolságot a sebességgel.
+
+Ezért az idő: 180 km / 60 km/h = 3 óra.
+
+Tehát az autó 3 óra alatt teszi meg a 180 kilométeres távolságot."
+"Egy boltban van 10 féle gyümölcs: alma, banán, cseresznye, dinnye, eper, földieper, grapefruit, homoktövis, őszibarack és szőlő. Hányféle módon lehet választani 3 gyümölcsöt?","A boltban 10 féle gyümölcs közül lehet választani: alma, banán, cseresznye, dinnye, eper, földieper, grapefruit, homoktövis, őszibarack és szőlő.
+
+A hányféle módon lehet választani 3 gyümölcsöt, azt határozzuk meg, hogy hány különböző 3 elemű részhalmaza van a 10 elemű halmaznak.
+
+Ezt a kombinatorikai problémát a kombinációs számok segítségével oldhatjuk meg. A kombinációs számokat az ""n választ k"" képlet segítségével számíthatjuk ki, ahol n az elemek száma, k pedig a kiválasztandó elemek száma.
+
+Ebben az esetben n = 10 (a gyümölcsök száma) és k = 3 (a kiválasztandó gyümölcsök száma).
+
+Az ""n választ k"" kombinációs számot a következő képlet segítségével számíthatjuk ki: n! / (k! * (n-k)"
+"Egy szabályos kockával dobunk. Mi a valószínűsége annak, hogy a dobott szám 3 vagy 4?","A szabályos kockával dobunk, ami 6 oldalú, és mindegyik oldalán egy szám van 1-től 6-ig.
+
+A dobott számok közül a 3 és a 4 két kívánt esemény.
+
+A kocka minden oldala egyenlő valószínűséggel fordulhat elő, tehát a kívánt események száma a kocka oldalainak számával arányos.
+
+A kocka oldalainak száma: 6
+
+A kívánt események száma: 2 (3 és 4)
+
+A valószínűség meghatározható úgy, hogy a kívánt események számát elosztjuk a kocka oldalainak számával: 2 / 6 = 1/3.
+
+Tehát a valószínűsége annak, hogy a dobott szám 3 vagy 4, 1/3."
+"Egy városban 10 buszjárat közlekedik, és minden buszjáraton 50 utas van. Hány különböző módon lehet kiválasztani egy utast az összes buszjáratról?","A városban 10 buszjárat közlekedik, és minden buszjáraton 50 utas van. Az összes buszjáratról egy utast kiválasztva meghatározhatjuk a kiválasztások számát a kombinatorikai számítások segítségével.
+
+A kombinatorikai számítások szerint a különböző elemek közül k elemet választva a választások száma a következő képlettel számolható: C(n, k) = n! / (k! * (n-k)!)
+
+Ahol n a lehetséges elemek száma, és k a választandó elemek száma.
+
+Ebben az esetben n = 10 (azaz 10 buszjárat közül választhatunk) és k = 1 (azaz 1 utast kell választanunk).
+
+Így a választások száma: C(10, 1) = 10! / (1! * (10-1)!) = 10! / (1! * 9!) = 10 / 1 = 10.
+
+Tehát 10 különböző módon lehet kiválasztani egy utast az öss"
+Egy matematikai versenyen 10 diák vesz részt. Minden diák 5 feladatot old meg. Hány különböző módon oszthatók ki a feladatok a diákok között?,"A matematikai versenyen 10 diák vesz részt, és minden diák 5 feladatot old meg. Hány különböző módon oszthatók ki a feladatok a diákok között?
+
+Ez egy kombinatorikai probléma, ahol a feladatokat osztjuk ki a diákok között. A feladatok száma megegyezik a diákok számával, tehát 10 feladatot kell kiosztani 10 diák között.
+
+A feladatok kiosztásának számát meghatározhatjuk a permutációk számításával. A permutációk száma a következő képlettel számolható: P(n) = n!
+
+Ahol n a feladatok száma.
+
+Ebben az esetben n = 10, tehát a permutációk száma: P(10) = 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 3,628,800.
+
+Tehát 10 feladatot kioszthatunk 10 diák között 3,628,800 különböző módon."
+Egy szupermarketben 1000 darab alma van. Az alma ára 100 forint darabonként. Az alma ára havonta 10%-kal csökken. Mi lesz az alma ára 6 hónap múlva?,"Az alma ára havonta 10%-kal csökken.
+
+Az árcsökkenés százalékát havonta 10%-ra tesszük, ami 0,1.
+
+Az ár 6 hónap múlva kiszámítható a következőképpen:
+
+Új ár = Eredeti ár * (1 - Árcsökkenés)^Hónapok száma
+
+Eredeti ár = 100 forint
+
+Árcsökkenés = 0,1
+
+Hónapok száma = 6
+
+Új ár = 100 * (1 - 0,1)^6
+
+Új ár = 100 * 0,9^6
+
+Új ár = 100 * 0,531441
+
+Új ár = 53,1441
+
+Tehát az alma ára 6 hónap múlva 53,1441 forint lesz."
+"Egy szabályos kockával dobunk. Mi a valószínűsége annak, hogy a dobott szám páros?","A szabályos kockával dobunk, ami 6 oldalú, és mindegyik oldalán egy szám van 1-től 6-ig.
+
+A páros számok a következők: 2, 4 és 6.
+
+A kocka minden oldala egyenlő valószínűséggel fordulhat elő, tehát a páros számok száma a kocka oldalainak számával arányos.
+
+A kocka oldalainak száma: 6
+
+A páros számok száma: 3 (2, 4 és 6)
+
+A valószínűség meghatározható úgy, hogy a páros számok számát elosztjuk a kocka oldalainak számával: 3 / 6 = 1/2.
+
+Tehát a valószínűsége annak, hogy a dobott szám páros, 1/2 vagy 50%."
+"Egy szabályos kockával dobunk. Mi a valószínűsége annak, hogy az eredmény egy prímszám lesz?","Egy szabályos kockával dobunk, amelynek oldalain a számok 1-től 6-ig vannak.
+
+Az összes lehetséges kimenetel száma a kocka oldalainak számával egyenlő, tehát 6.
+
+Azok az eredmények, amelyek prímszámokat jelentenek, az alábbiak: 2, 3 és 5.
+
+Ezért a prímszám eredmények száma: 3.
+
+A valószínűség kiszámításához a prímszám eredmények számát el kell osztanunk az összes lehetséges kimenetel számával: 3 / 6 = 0,5 vagy 50%.
+
+Tehát a valószínűsége annak, hogy az eredmény egy prímszám lesz, 0,5 vagy 50%."
+Egy autógyárban 10 munkás dolgozik. Az autógyárban minden munkás egyenlő időt dolgozik. Az autógyárban munkaidőben a munkások átlagosan 100 autót gyártanak. Hány autót gyártanak összesen az autógyárban egy nap?,"Az autógyárban dolgozó munkások által összesen gyártott autók számát meghatározhatjuk úgy, hogy megszorozzuk a munkások számát az egy munkás által gyártott autók számával.
+
+Az autógyárban dolgozik 10 munkás.
+
+Egy munkás átlagosan 100 autót gyárt egy munkaidőben.
+
+Tehát az autógyárban összesen gyártott autók száma: 10 * 100 = 1000 autó.
+
+Ezért az autógyárban egy nap összesen 1000 autót gyártanak."
+Egy városban 1000 férfi és 800 nő él. Az emberek 20%-a 18 év alatti. Hány 18 év alatti nő él a városban?,"Az emberek 20%-a 18 év alatti, tehát a városban élő emberek számának 20%-a 18 év alatti. Az emberek számát az alábbiak szerint számíthatjuk ki:
+
+Férfiak száma: 1000
+Nők száma: 800
+
+Az emberek száma: 1000 + 800 = 1800
+
+Az 18 év alatti emberek száma: 1800 * 0,2 = 360
+
+Az 18 év alatti nők száma a városban: 360 * (800 / 1800) = 160.
+
+Tehát a városban 160 18 év alatti nő él."
+"Egy dobozban 5 piros, 4 kék és 3 zöld golyó van. Véletlenszerűen kiveszünk 3 golyót a dobozból egymás után anélkül, hogy visszatennénk őket. Mi a valószínűsége annak, hogy mindhárom golyó ugyanolyan színű lesz?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a golyók számával egyenlő. Első lépésben 12 golyót választhatunk, majd második lépésben 11 golyót választhatunk, majd harmadik lépésben 10 golyót választhatunk. Tehát az összes lehetséges kimenetel száma: 12 * 11 * 10 = 1320.
+
+A kívánt kimenetel azon esetek száma, amikor mindhárom golyó ugyanolyan színű. Mivel 5 piros, 4 kék és 3 zöld golyó van, ezért a kívánt kimenetel száma: 5 * 4 * 3 = 60.
+
+Ezért a valószínűség, hogy mindhá"
+"Egy számítógépes játékban a játékosnak 10 élete van. Az első szinten elveszít 3 életet, a második szinten elveszít 2 életet, a harmadik szinten elveszít 4 életet, majd a negyedik szinten elveszít 1 életet. Hány élete marad a játékosnak a negyedik szint után?","A játékosnak kezdetben 10 élete van.
+
+Az első szinten 3 életet veszít el, tehát marad 10 - 3 = 7 élete.
+
+A második szinten további 2 életet veszít el, tehát marad 7 - 2 = 5 élete.
+
+A harmadik szinten további 4 életet veszít el, tehát marad 5 - 4 = 1 élete.
+
+Végül, a negyedik szinten még 1 életet veszít el, tehát marad 1 - 1 = 0 élete.
+
+Tehát a játékosnak a negyedik szint után 0 élete marad."
+"Egy matematika versenyen 30 diák vesz részt. A versenyen 10 kérdést tesznek fel, és minden kérdésre csak egy helyes válasz van. Mi a valószínűsége annak, hogy egy véletlenszerűen kiválasztott diák legalább 7 kérdésre helyes választ ad?","A valószínűséget kiszámíthatjuk úgy, hogy meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a diákok számával egyenlő, tehát 30.
+
+A kívánt kimenetel azon diákok száma, akik legalább 7 kérdésre helyes választ adnak. Ez magában foglalja azokat a diákokat, akik 7, 8, 9 vagy 10 kérdésre helyes választ adnak.
+
+A 7 kérdésre helyes választ adó diákok száma: C(10, 7) * C(20, 3) = 120 * 1140 = 136800.
+
+A 8 kérdésre helyes választ adó diákok száma: C(10, 8) * C(20, 2) = 45 * 190 = 8550.
+
+A 9 kérdésre helyes választ adó diákok száma: C(10"
+Egy autó 100 km/h sebességgel halad. Mennyi idő alatt tesz meg 500 kilométert?,"Az autó 100 km/h sebességgel halad, és szeretnénk megtudni, mennyi idő alatt tesz meg 500 kilométert.
+
+Az idő meghatározható úgy, hogy az utat elosztjuk a sebességgel.
+
+Az idő = távolság / sebesség.
+
+Ebben az esetben a távolság 500 kilométer, a sebesség pedig 100 km/h.
+
+Az idő = 500 km / 100 km/h = 5 óra.
+
+Tehát az autó 500 kilométert 5 óra alatt tesz meg."
+"Egy szupermarketben egy termék ára 500 Ft. Az áruházban egy akció keretében minden 3. terméket ingyen adják. Ha valaki 10 terméket vásárol, mennyit kell fizetnie?","Az áruházban egy termék ára 500 Ft. Az akció keretében minden 3. terméket ingyen adják.
+
+Ha valaki 10 terméket vásárol, akkor a fizetendő összeget kiszámíthatjuk úgy, hogy meghatározzuk, hány terméket kell megvásárolni a teljes áron, és hány terméket kapunk ingyen.
+
+A 10 termékből minden 3. terméket ingyen kapunk, tehát 10 / 3 = 3 egész terméket kapunk ingyen.
+
+Ezért a fizetendő összeg: (10 - 3) * 500 Ft = 7 * 500 Ft = 3500 Ft.
+
+Tehát a vásárlónak 3500 Ft-ot kell fizetnie."
+Egy számítógép üzletben 100 darab laptopot tartanak raktáron. Az üzletben 30%-os kedvezményt adnak az összes laptopra. Hány laptopot lehet megvásárolni kedvezményes áron?,"Az üzletben 100 darab laptop van raktáron.
+
+Az összes laptopra 30%-os kedvezményt adnak, tehát a kedvezményes ár meghatározható úgy, hogy az eredeti árat megszorozzuk 0,7-tel.
+
+A kedvezményes ár: 100 * 0,7 = 70 laptop.
+
+Tehát kedvezményes áron 70 laptopot lehet megvásárolni."
+Egy szupermarketben egy termék ára 1000 Ft. Az árakat évente 5% -kal emelik. Hány év múlva lesz az ár 1500 Ft?,"Az árak éves emelkedési arányát 5% -nak határozták meg.
+
+Az eredeti ár 1000 Ft.
+
+Azt szeretnénk megtudni, hogy hány év múlva lesz az ár 1500 Ft.
+
+Az ár emelkedését évente 5% -kal számoljuk.
+
+Először meg kell határoznunk, hogy hány év alatt nő az ár 500 Ft-tal (1500 Ft - 1000 Ft).
+
+Az éves emelkedési arány 5% -nak van meghatározva, tehát az ár évente 5% -kal nő.
+
+Ezért a növekedési tényező: 1 + 5% = 1 + 0.05 = 1.05.
+
+Ezután meg kell oldanunk az egyenletet: 1000 Ft * (1.05)^n = 1500 Ft, ahol n a múló évek száma.
+
+Ezt az egyenletet megoldva megkapjuk, hogy n = log(1500 Ft / 1000 Ft) / log(1.05) = 14.206.
+
+Tehát körülbelül 14 év múlva lesz az ár 1500 Ft."
+Egy autó 60 km/h sebességgel halad egyenes vonalban 2 órán keresztül. Mennyi távolságot tesz meg az autó?,"Az autó 60 km/h sebességgel halad egyenes vonalban 2 órán keresztül.
+
+A távolságot meghatározhatjuk úgy, hogy megszorozzuk az autó sebességét az idővel. Tehát a távolság: 60 km/h * 2 óra = 120 km.
+
+Tehát az autó 120 km távolságot tesz meg."
+"Egy szabályos hatoldalú dobókockával dobunk. Mi a valószínűsége annak, hogy legalább egyszer 6-ost dobunk, ha ötször dobunk?","A valószínűség kiszámításához először meg kell határoznunk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+Az összes lehetséges kimenetel száma a dobások számával és a dobókocka oldalainak számával egyenlő. Mivel ötször dobunk egy hatoldalú dobókockával, az összes lehetséges kimenetel száma: 6^5 = 7776.
+
+A kívánt kimenetel azon esetek száma, amikor legalább egyszer 6-ost dobunk. Az ellenkező eset az lenne, ha egyetlen dobásban sem dobnánk 6-ost. Ezért a kívánt kimenetel száma: 6^5 - 5^6 = 7776 - 15625 = -7855.
+
+Mivel a kívánt kimenetel számával nem lehet negatív értéket kapni, ezért a valószínűség, hogy legalább egyszer 6-ost dobunk ötször dobás során, 0."
+"Egy dobozban van 4 piros golyó, 3 kék golyó és 2 zöld golyó. Ha véletlenszerűen kiveszünk 3 golyót a dobozból anélkül, hogy visszatennénk őket, mi a valószínűsége annak, hogy mindhárom golyó különböző színű lesz?","A valószínűséget kiszámíthatjuk úgy, hogy meghatározzuk az összes lehetséges kimenetel számát, majd a kívánt kimenetel számát.
+
+A dobozban összesen 4 piros golyó, 3 kék golyó és 2 zöld golyó van.
+
+Először kiveszünk egy golyót a dobozból. Ekkor 9 golyóból választhatunk.
+
+Miután kivettünk egy golyót, még 8 golyó marad a dobozban.
+
+Ezután kiveszünk még egy golyót a dobozból. Ekkor 7 golyóból választhatunk.
+
+Végül kiveszünk még egy golyót a dobozból. Ekkor 6 golyóból választhatunk.
+
+A kívánt kimenetel azon esetek száma, amikor mindhárom golyó különböző színű.
+
+Ez a következőképpen számolható: (4"
+"Egy iskolában 5 osztály van, és mindegyik osztályban 25 diák. Az iskolában összesen hány diák tanul?","Az iskolában 5 osztály van, és mindegyik osztályban 25 diák tanul.
+
+Az összes diák számát meghatározhatjuk úgy, hogy megszorozzuk az osztályok számát a diákok számával.
+
+Ezért az összes diák száma: 5 * 25 = 125.
+
+Tehát az iskolában összesen 125 diák tanul."
+Miért kell az embereknek aludni?,"Az embereknek aludniuk kell, mert az alvás elengedhetetlen az egészségük és jó közérzetük szempontjából. Alvás közben a test és az agy regenerálódik, a sejtek megújulnak, és az immunrendszer erősödik. Az alvás segít a testnek helyreállítani az energiaszintet, és támogatja az anyagcserét. Emellett az alvásnak fontos szerepe van az agy működésében is. Alvás közben a memória megerősödik, az információk feldolgozása és rögzítése történik, és az agy megtisztul a felesleges anyagoktól. Tehát az alvás elengedhetetlen a test és az agy megfelelő működéséhez, és hozzájárul az egészségünk és jó közérzetünk fenntartásához."
+Miért fontos a rendszeres testmozgás?,"A rendszeres testmozgás rendkívül fontos az egészségünk szempontjából. Az aktív életmód segít megelőzni számos betegséget, mint például a szív- és érrendszeri megbetegedések, a cukorbetegség, az elhízás és a rák. A testmozgás erősíti az izmokat és az ízületeket, javítja a testtartást és az egyensúlyt, és növeli a test rugalmasságát. Emellett a testmozgás segít a stressz csökkentésében és a hangulat javításában. Mozgás közben a test endorfin hormont termel, amely boldogságérzetet és feszültségoldást eredményez. Rendszeres testmozgásra van szükség ahhoz, hogy megőrizzük a megfelelő testsúlyt és a jó fizikai kondíciót. Tehát a rendszeres testmozgás kulcsfontosságú a hosszú távú egészségünk és jó közérzetünk szempontjából."
+Miért fontos a megfelelő táplálkozás?,"A megfelelő táplálkozás rendkívül fontos az egészségünk és jó közérzetünk szempontjából. Az egészséges étrend biztosítja a szervezet számára az összes szükséges tápanyagot, vitaminokat és ásványi anyagokat, amelyekre szüksége van a megfelelő működéshez. A megfelelő táplálkozás segít megelőzni számos betegséget, mint például a szív- és érrendszeri megbetegedések, a magas vérnyomás, a cukorbetegség és az elhízás. Az egészséges étrend tartalmazza a megfelelő mennyiségű fehérjét, szénhidrátot, zsírt, rostot és vizet. Fontos, hogy változatosan étkezzünk, és fogyasszunk sok zöldséget, gyümölcsöt, teljes kiőrlésű gabonát, sovány húsokat és halakat. A megfelelő táplálkozás segít fenntartani az optimális testsúlyt, erősíti az immunrendszert, javítja a bőr és a haj állapotát, és növeli az energiaszintet. Tehát a megfelelő táplálkozás elengedhetetlen az egészségünk és jó közérzetünk fenntartásához."
+Miért fontos a környezetvédelem?,"A környezetvédelem rendkívül fontos a jelen és a jövő generációk szempontjából. Az emberi tevékenységek, mint például az ipar, a közlekedés és az energiatermelés, negatív hatással vannak a környezetre. Az üvegházhatású gázok kibocsátása, az erdőirtás, a vízszennyezés és a hulladékkezelés hiánya súlyos környezeti problémákat okoz. A környezetvédelem célja az élőhelyek megőrzése, a biodiverzitás védelme, a levegő és a víz minőségének javítása, valamint a fenntartható fejlődés elősegítése. A környezetvédelemre való odafigyelés segít megelőzni a klímaváltozást, a természeti katasztrófákat és a környezeti betegségeket. Fontos, hogy csökkentsük az energiafogyasztást, használjunk megújuló energiaforrásokat, újrahasznosítsunk, és támogassuk a fenntartható mezőgazdaságot. Mindannyiunk felelőssége, hogy megóvjuk a környezetet a jövő generációk számára, és biztosítsuk a fenntartható jövőt."
+Miért fontos a tudomány és kutatás?,"A tudomány és kutatás rendkívül fontos a fejlődés és az innováció szempontjából. A tudományos kutatások segítenek megérteni a világot, felfedezni új ismereteket és fejleszteni új technológiákat. A tudomány és kutatás hozzájárul a társadalom fejlődéséhez és a problémák megoldásához. A tudományos eredmények alapján fejleszthetünk hatékonyabb gyógyszereket, fenntartható energiamegoldásokat, új anyagokat és technológiákat. A tudományos kutatások segítenek megérteni a természeti folyamatokat, a betegségek kialakulását és a környezeti hatásokat. Emellett a tudomány és kutatás elősegíti a társadalom oktatását és képzését, és hozzájárul a munkahelyteremtéshez és a gazdasági növekedéshez. Fontos, hogy támogassuk a tudományos kutatásokat, és biztosítsuk a kutatók számára a megfelelő erőforrásokat és támogatást. A tudomány és kutatás kulcsfontosságú a fejlődésünk és a jövőnk szempontjából."
+Miért fontos az emberi jogok védelme?,"Az emberi jogok védelme rendkívül fontos a demokratikus és igazságos társadalmak szempontjából. Az emberi jogok olyan alapvető jogok és szabadságok, amelyek minden embernek járnak, függetlenül a nemzetiségétől, vallásától, nemi identitásától vagy szexuális orientációjától. Az emberi jogok védelme biztosítja az egyenlőséget, a méltóságot és a szabadságot minden ember számára. Az emberi jogok védelme segít megelőzni a diszkriminációt, az erőszakot és az igazságtalanságot. Az emberi jogok védelme elősegíti a jogállamiságot, a törvényességet és az igazságszolgáltatást. Fontos, hogy minden embernek lehetősége legyen érvényesíteni az emberi jogait, és hogy a társadalom és a kormányok támogassák és védelmezzék ezeket a jogokat. Az emberi jogok védelme alapvető a demokratikus és igazságos társadalom fenntartásához."
+Miért fontos az oktatás és képzés?,"Az oktatás és képzés rendkívül fontos a társadalom és az egyének szempontjából. Az oktatás segít fejleszteni az emberek készségeit, tudását és képességeit. Az oktatás és képzés lehetővé teszi az emberek számára, hogy megszerezzék a szükséges ismereteket és készségeket a munkaerőpiacon való sikeres szerepléshez. Az oktatás segít megérteni a világot, fejleszti a kritikai gondolkodást és a problémamegoldó képességet. Az oktatás és képzés elősegíti a társadalmi mobilitást és az esélyegyenlőséget. Az oktatás segít megelőzni az analfabetizmust, a szegénységet és a társadalmi kirekesztést. Az oktatás és képzés hozzájárul a gazdasági fejlődéshez, a munkahelyteremtéshez és a társadalmi fejlődéshez. Fontos, hogy minden ember számára elérhető legyen az oktatás és képzés, és hogy a kormányok és intézmények támogassák és fejlesszék az oktatási rendszereket. Az oktatás és képzés kulcsfontosságú a társadalom és az egyének fejlődése és jövője szempontjából."
+Miért fontos a művészet és kultúra?,"A művészet és kultúra rendkívül fontos a társadalom és az egyének szempontjából. A művészet és kultúra segít megérteni és kifejezni az emberi érzelmeket, gondolatokat és tapasztalatokat. A művészet és kultúra hozzájárul a társadalmi identitás és az önkifejezés kialakításához. A művészet és kultúra segít megőrizni és ápolni a hagyományokat, a nyelvet és a történelmet. A művészet és kultúra elősegíti a kreativitást, az innovációt és az esztétikai érzékenységet. A művészet és kultúra gazdagítja az életet, inspirációt nyújt, és segít megélni a szépséget és az értékeket. A művészet és kultúra hozzájárul a gazdasági fejlődéshez, a turizmushoz és a munkahelyteremtéshez. Fontos, hogy támogassuk és védelmezzük a művészetet és kultúrát, hogy minden ember számára elérhető legyen, és hogy a kormányok és intézmények támogassák és fejlesszék a művészeti és kulturális tevékenységeket. A művészet és kultúra kulcsfontosságú a társadalom és az egyének fejlődése és jövője szempontjából."
+Melyik az első magyarországi egyetem?,"Az első magyarországi egyetem az Eötvös Loránd Tudományegyetem, melyet 1635-ben alapították. Az egyetem a magyar felsőoktatás egyik legjelentősebb intézménye, és számos kiváló oktatóval és kutatóval rendelkezik. Az Eötvös Loránd Tudományegyetem különböző tudományterületeken kínál képzéseket, és fontos szerepet játszik a magyar tudományos életben. Az egyetemnek számos híres végzőse van, akik jelentős hatást gyakoroltak a magyar és a nemzetközi tudományos közösségre."
+Miért fontos az Eötvös Loránd Tudományegyetem a magyar tudományos életben?,"Az Eötvös Loránd Tudományegyetem rendkívül fontos szerepet játszik a magyar tudományos életben. Az egyetem számos kiváló oktatóval és kutatóval rendelkezik, akik jelentős hozzájárulást tesznek a tudományos kutatásokhoz és fejlesztésekhez. Az ELTE különböző tudományterületeken kínál képzéseket, így széles körben támogatja a tudományos és technológiai fejlődést Magyarországon. Az egyetemnek számos kutatóközpontja és laboratóriuma van, ahol innovatív kutatásokat végeznek. Emellett az ELTE szoros kapcsolatot ápol más nemzetközi egyetemekkel és kutatóintézetekkel, ami tovább erősíti a magyar tudományos közösség nemzetközi hírnevét és kapcsolatrendszerét."
+Milyen kutatási területeken végeznek innovatív kutatásokat az Eötvös Loránd Tudományegyetemen?,"Az Eötvös Loránd Tudományegyetem számos kutatási területen végez innovatív kutatásokat. Az egyetem különböző tudományterületeken kínál képzéseket, és ezekhez kapcsolódóan számos kutatóközponttal és laboratóriummal rendelkezik. Néhány példa a kutatási területekre: 
+
+1. Biológia és biotechnológia: Az ELTE biológiai kutatásokat végez, amelyek hozzájárulnak a biotechnológiai fejlesztésekhez és az egészségügyi kutatásokhoz.
+
+2. Kémia és anyagtudomány: Az egyetem kémiai kutatásokat végez, amelyek célja az új anyagok és vegyületek fejlesztése, valamint az anyagtudomány területén történő előrehaladás.
+
+3. Informatika és mesterséges intelligencia: Az ELTE informatikai kutatásokat végez, amelyek a mesterséges intelligencia, a gépi tanulás és az adatbányászat területén történő fejlesztésekre összpontosítanak.
+
+4. Fizika és csillagászat: Az egyetem fizikai kutatásokat végez, amelyek a kvantumfizika, a részecskefizika és a csillagászat területén történő előrehaladást célozzák.
+
+Ezek csak néhány példa a sok kutatási terület közül, amelyeken az Eötvös Loránd Tudományegyetem innovatív kutatásokat végez. Az egyetemnek számos kutatócsoportja van, amelyek"
+Milyen kapcsolatokat ápol az Eötvös Loránd Tudományegyetem más nemzetközi egyetemekkel és kutatóintézetekkel?,"Az Eötvös Loránd Tudományegyetem szoros kapcsolatokat ápol más nemzetközi egyetemekkel és kutatóintézetekkel. Az egyetem rendszeresen részt vesz nemzetközi konferenciákon és kutatási projektekben, amelyek lehetővé teszik a tudományos közösség számára, hogy megosszák eredményeiket és együttműködjenek más intézményekkel. Az ELTE számos nemzetközi együttműködési programban vesz részt, amelyek célja a tudományos és kulturális kapcsolatok erősítése más országokkal.
+
+Az egyetemnek számos partnersége van külföldi egyetemekkel, például az Oxfordi Egyetemmel, a Párizsi Egyetemmel és a Berlini Szabadegyetemmel. Ezek a partnerségek lehetővé teszik a hallgatók és oktatók számára, hogy részt vegyenek külföldi tanulmányutakon és kutatási projektekben. Emellett az ELTE rendszeresen fogad külföldi hallgatókat és kutatókat, akik hozzájárulnak a nemzetközi tudományos közösség sokszínűségéhez és fejlődéséhez.
+
+Az Eötvös Loránd Tudományegyetem nemzetközi kapcsolatai hozzájárulnak a magyar tudományos közösség nemzetközi hírnevéhez és kapcsolatrendszeréhez. Az egyetem folyamatosan törekszik a nemzetközi együttműködések bővítésére és erősítésére,"
+Miért fontos a tudományos kutatás és fejlesztés a magyar társadalom számára?,"A tudományos kutatás és fejlesztés rendkívül fontos a magyar társadalom számára számos okból. Először is, a tudományos kutatások hozzájárulnak az új ismeretek és technológiák fejlesztéséhez, amelyek javítják az emberek életminőségét és jólétét. Például, a gyógyászati kutatások új gyógyszerek és kezelési módszerek kifejlesztését eredményezhetik, amelyek segítenek az embereknek megbirkózni a betegségekkel és javítják az egészségügyi ellátást.
+
+Másodszor, a tudományos kutatások hozzájárulnak a gazdasági fejlődéshez és az innovációhoz. Az új technológiák és termékek fejlesztése lehetővé teszi a vállalkozások számára, hogy versenyképesek legyenek a nemzetközi piacon, és új munkahelyeket teremtsenek. A kutatások eredményei segíthetnek az új iparágak és üzleti lehetőségek kialakításában, amelyek hozzájárulnak a gazdasági növekedéshez és a munkahelyteremtéshez.
+
+Harmadszor, a tudományos kutatások hozzájárulnak a társadalmi fejlődéshez és kulturális előrehaladáshoz. Az új ismeretek és felfedezések lehetővé teszik a társadalom számára, hogy jobban megértsék a világot és fejlesszék a tudásukat."
+Mi a különbség a tudományos kutatás és a technológiafejlesztés között?,"A tudományos kutatás és a technológiafejlesztés két különböző, de összekapcsolódó tevékenység a tudományos és technológiai területeken.
+
+A tudományos kutatás a tudományos ismeretek bővítésére és új ismeretek megszerzésére irányul. Ez a folyamat az alapkutatásból és az alkalmazott kutatásból áll. Az alapkutatás a tudományos ismeretek elméleti alapjainak felfedezésére és megértésére összpontosít, míg az alkalmazott kutatás a tudományos ismeretek gyakorlati alkalmazására és problémák megoldására összpontosít.
+
+A technológiafejlesztés a tudományos ismeretek és innovációk alkalmazására irányul a gyakorlatban. Ez a folyamat az új technológiák, termékek és szolgáltatások fejlesztését jelenti. A technológiafejlesztés célja a tudományos kutatás eredményeinek felhasználása a társadalmi és gazdasági problémák megoldására, valamint az új és jobb termékek és szolgáltatások létrehozására.
+
+Összefoglalva, a tudományos kutatás a tudományos ismeretek bővítésére és új ismeretek megszerzésére irányul, míg a technológiafejlesztés a tudományos ismeretek és innovációk alkalmazására a gyakorlatban. Mindkét tevékenység fontos a tudományos és technológiai fejlődés sz"
+Mi a különbség az alapkutatás és az alkalmazott kutatás között?,"Az alapkutatás és az alkalmazott kutatás két különböző megközelítés a tudományos kutatásban.
+
+Az alapkutatás a tudományos ismeretek elméleti alapjainak felfedezésére és megértésére összpontosít. Ez a fajta kutatás általában nem közvetlenül kapcsolódik a gyakorlati alkalmazásokhoz vagy problémák megoldásához. Az alapkutatás célja az új ismeretek megszerzése és a tudományos ismeretek bővítése. Ez a kutatási folyamat hosszú távú hatásokkal járhat, és hozzájárulhat az adott tudományterület fejlődéséhez.
+
+Az alkalmazott kutatás a tudományos ismeretek gyakorlati alkalmazására és problémák megoldására összpontosít. Ez a fajta kutatás közvetlenül kapcsolódik a gyakorlati alkalmazásokhoz és a konkrét problémák megoldásához. Az alkalmazott kutatás célja az új technológiák, termékek vagy szolgáltatások fejlesztése, amelyek hasznosak lehetnek a társadalom vagy a gazdaság számára. Az alkalmazott kutatás gyakran együttműködik az iparral vagy más szervezetekkel, és célja a konkrét problémák megoldása vagy az új termékek és szolgáltatások fejlesztése.
+
+Összefoglalva, az alapkutatás a tudományos ismeretek elméleti alapjainak felfedezésére és megértésére összpontosít, m"
+Mi a tudományos módszer és hogyan alkalmazzák a kutatások során?,"A tudományos módszer egy rendszeres és strukturált megközelítés a tudományos kutatásokban. Ez egy olyan folyamat, amelyet a tudósok alkalmaznak az új ismeretek megszerzésére és a tudományos kérdések megválaszolására.
+
+A tudományos módszer általában a következő lépéseket tartalmazza:
+
+1. Megfigyelés: A kutatók megfigyelnek és rögzítenek egy jelenséget vagy problémát, amelyet meg akarnak érteni vagy megmagyarázni.
+
+2. Kérdésfeltevés: A kutatók feltesznek egy kérdést vagy hipotézist a megfigyelt jelenséggel kapcsolatban. Ez a kérdés vagy hipotézis irányítja a további kutatást.
+
+3. Háttérkutatás: A kutatók áttekintik a már meglévő irodalmat és kutatásokat, hogy megértsék a témával kapcsolatos korábbi eredményeket és ismereteket.
+
+4. Kísérleti tervezés: A kutatók tervezik a kísérletet vagy a vizsgálatot, amelyben tesztelik a hipotézist vagy választ keresnek a kérdésre. A kísérleti tervezés magában foglalja a mintavételt, a változók ellenőrzését és a mérési módszerek kiválasztását.
+
+5. Adatgyűjtés: A kutatók adatokat gyűjtenek a kísérlet vagy vizsgálat során. Ez lehet megfigyelés, mérés, interjúk vagy más adatgyűjtési módszerek.
+
+6. Ad"
+Mi a fővárosa Magyarországnak?,"A fővárosa Magyarországnak Budapest. Budapest a legnagyobb város Magyarországon és a politikai, gazdasági és kulturális központja az országnak. A városban találhatóak a legfontosabb kormányzati intézmények, a parlament és a minisztériumok. Emellett Budapest híres a gyönyörű épületeiről, mint például a Parlament, a Halászbástya és a Budai Vár."
+"Miért hívják Budapestet a ""Duna gyöngyszemének""?","Budapestet a ""Duna gyöngyszemének"" hívják, mert a város a Duna folyó két partján helyezkedik el, és lenyűgöző kilátást nyújt a folyóra. A Duna Budapestet kettéosztja, és a városban található hídjai és partjai lenyűgöző látványt nyújtanak. Emellett a városban találhatóak olyan épületek, mint a Parlament, a Halászbástya és a Budai Vár, amelyek tovább fokozzák Budapest szépségét és vonzerejét. A Duna folyó és a város együttesen teszik Budapestet a ""Duna gyöngyszemévé""."
+Milyen híres épületek találhatóak Budapesten?,"Budapesten számos híres épület található, amelyek a város gazdag történelmét és kulturális örökségét tükrözik. Az egyik legismertebb épület a Parlament, amely a Duna partján található és a város ikonikus szimbóluma. A Parlament épülete impozáns neogótikus stílusban épült, és a magyar törvényhozás otthona.
+
+Egy másik híres épület a Halászbástya, amely a Budai Várnegyedben található. Ez a neogótikus stílusú épület lenyűgöző kilátást nyújt a városra és a Dunára. A Halászbástya a város egyik leglátogatottabb turisztikai látványossága.
+
+A Budai Vár is jelentős történelmi és kulturális szereppel bír. Ez a középkori eredetű várkomplexum számos palotát, múzeumot és templomot foglal magában. A Budai Vár a világörökség része, és lenyűgöző építészeti részleteivel és gyönyörű kilátásával vonzza a látogatókat.
+
+Ezek csak néhány példa a sok híres épületre Budapesten,"
+Mi a történelmi jelentősége a Budai Várnak?,"A Budai Várnak jelentős történelmi szerepe van Magyarországon. A várkomplexum a középkorban épült, és az évszázadok során számos fontos eseménynek volt a színtere. A Budai Vár volt a magyar királyok és uralkodók rezidenciája, és itt tartották a koronázási ceremóniákat és más fontos állami eseményeket.
+
+A várban találhatóak olyan épületek, mint a Budavári Palota, a Mátyás-templom és a Halászbástya, amelyek mind jelentős történelmi és kulturális értéket képviselnek. A várban található múzeumok, kiállítások és emlékhelyek bemutatják a magyar történelmet és kultúrát.
+
+A Budai Vár a második világháborúban súlyos károkat szenvedett, de azóta restaurálták és helyreállították. Ma a vár a turisták és a helyiek kedvelt helyszíne, ahol felfedezhetik a múltat és élvezhetik a gyönyörű kilátást a városra. A Budai Vár fontos része Budapest történelmi és kulturális örökségének."
+Mi volt a Budai Vár eredeti célja?,"A Budai Vár eredeti célja a középkorban a magyar királyok és uralkodók rezidenciájának szolgálni. A várkomplexumot a 13. században kezdték el építeni, és az évszázadok során többször átépítették és bővítették.
+
+A várban találhatóak a királyi paloták, ahol a királyi család élt és a királyi udvar működött. Itt tartották a koronázási ceremóniákat, az udvari ünnepségeket és más fontos állami eseményeket.
+
+Emellett a várban találhatóak a királyi kancelláriák, ahol a királyi hivatalok működtek, és ahol a királyi iratokat és okleveleket tárolták.
+
+A Budai Vár tehát nemcsak a királyi rezidencia volt, hanem a királyi hatalom központja is. A vár jelentős szerepet játszott a magyar történelemben és politikában, és ma is fontos része Budapest történelmi és kulturális örökségének."
+Mi a kapcsolat a Budai Vár és a Halászbástya között?,"A Budai Vár és a Halászbástya között szoros kapcsolat van, mivel mindkettő a Budai Várnegyedben található és fontos része Budapest történelmi örökségének.
+
+A Halászbástya a Budai Vár egyik jellegzetes épülete. Ez a neogótikus stílusú épület lenyűgöző kilátást nyújt a városra és a Dunára. A Halászbástya a 19. században épült, és a halászok emlékére emelték, akik a középkorban a városfalakat őrizték.
+
+A Halászbástya a Budai Vár egyik leglátogatottabb turisztikai látványossága, és sok turista felkeresi, hogy élvezze a panorámát és felfedezze a környező területeket.
+
+A Budai Vár és a Halászbástya együtt teszik vonzóvá a Budai Várnegyedet, és fontos részei Budapest kulturális és történelmi örökségének. A látogatók a várban sétálhatnak, felfedezhetik a múzeumokat és emlékhelyeket, majd felmehetnek a Halászbástyára, hogy élvezzék a gyönyörű kilát"
+Miért fontos a Duna folyó Budapest számára?,"A Duna folyó Budapest számára rendkívül fontos. Budapest a Duna folyó két partján helyezkedik el, és a város életében és gazdaságában jelentős szerepet játszik.
+
+Először is, a Duna folyó Budapestet kettéosztja, és a városban található hídjai és partjai lenyűgöző látványt nyújtanak. A Duna partján sétálva a látogatók élvezhetik a folyó szépségét és a városra nyíló panorámát.
+
+Másodszor, a Duna folyó fontos szerepet játszik a város gazdaságában. A Duna Budapestet a közép-európai országokkal és a Fekete-tengerrel köti össze, és a város kikötője fontos szerepet játszik a kereskedelemben és a logisztikában. A Duna hajózható része lehetővé teszi a hajóforgalmat és a szállítást, ami gazdasági előnyöket jelent a városnak.
+
+Végül, a Duna folyó a város életének és kultúrájának fontos része. A Duna partján találhatóak éttermek, kávézók és szórakozóhelyek, ahol a hely"
+Mi a jelentősége a Parlament épületének Magyarországon?,"A Parlament épülete rendkívül jelentős Magyarországon. Ez a neogótikus stílusú épület a magyar törvényhozás otthona, és a politikai élet központja az országban.
+
+Az épület impozáns méreteivel és részleteivel lenyűgöző látványt nyújt. A Parlament a Duna partján található, és a város egyik legismertebb ikonikus szimbóluma. A látogatók gyakran felkeresik, hogy megcsodálják a gyönyörű homlokzatot és belső tereket.
+
+A Parlamentben találhatóak a legfontosabb kormányzati intézmények, ahol a törvényeket hozzák és a politikai döntéseket hozzák. Itt ülésezik a Magyar Országgyűlés, és itt találhatóak a minisztériumok és más kormányzati irodák.
+
+A Parlament épülete tehát nemcsak a politikai hatalom szimbóluma, hanem a magyar demokrácia és jogállamiság jelképe is. A látogatók bejárhatják az épületet, és megismerhetik a magyar törvényhozás működését és történelmét."
+Mi a jelentősége a Halászbástyának Budapesten?,"A Halászbástya rendkívül jelentős szerepet játszik Budapesten. Ez a neogótikus stílusú épület a Budai Várnegyedben található, és a város egyik legismertebb turisztikai látványossága.
+
+A Halászbástya lenyűgöző kilátást nyújt a városra és a Dunára. A városra néző oldalán hét torony található, amelyek a hét magyar törzset szimbolizálják. A látogatók felmehetnek a kilátóteraszra, hogy élvezzék a panorámát és fényképeket készítsenek a városról.
+
+A Halászbástya eredetileg a halászok emlékére épült, akik a középkorban a városfalakat őrizték. Ma a Halászbástya a város egyik ikonikus szimbóluma, és fontos része Budapest történelmi és kulturális örökségének.
+
+A látogatók a Halászbástyánál sétálhatnak, felfedezhetik a környező területeket és megcsodálhatják a város szépségét. A Halászbástya a turisták és a helyiek kedvelt találkozási helye, és a város egyik leg"
+Mi a jelentősége a Budai Várnak Budapest történelmében?,"A Budai Vár rendkívül jelentős szerepet játszik Budapest történelmében. Ez a középkori eredetű várkomplexum a város egyik legfontosabb történelmi és kulturális öröksége.
+
+A Budai Vár a magyar királyok és uralkodók rezidenciája volt a középkorban. Itt tartották a koronázási ceremóniákat, az udvari ünnepségeket és más fontos állami eseményeket. A várban találhatóak a királyi paloták, ahol a királyi család élt és a királyi udvar működött.
+
+A várban találhatóak továbbá múzeumok, kiállítások és emlékhelyek, amelyek bemutatják a magyar történelmet és kultúrát. A Budai Vár a világörökség része, és lenyűgöző építészeti részleteivel és gyönyörű kilátásával vonzza a látogatókat.
+
+A Budai Vár a második világháborúban súlyos károkat szenvedett, de azóta restaurálták és helyreállították. Ma a vár a turisták és a helyiek kedvelt helyszíne, ahol felfed"
+Mi a fővárosa Magyarországnak?,"A fővárosa Magyarországnak Budapest. Budapest a legnagyobb város Magyarországon és a politikai, gazdasági és kulturális központja az országnak. A városban találhatóak a legfontosabb kormányzati intézmények, a parlament és a minisztériumok. Emellett Budapest híres a gyönyörű épületeiről, mint például a Parlament, a Halászbástya és a Budai Vár. A városban számos kulturális esemény, múzeum és szórakozási lehetőség várja a látogatókat. Budapest a turisták és a helyiek kedvelt célpontja, és gazdag történelmi és kulturális örökséggel rendelkezik."
+Mi a kapcsolat a Budai Vár és a Halászbástya között?,"A Budai Vár és a Halászbástya között szoros kapcsolat van, mivel mindkettő a Budai Várnegyedben található és fontos része Budapest történelmi örökségének.
+
+A Budai Vár egy hatalmas várkomplexum, amely a középkorban épült. A várban találhatóak a királyi paloták, ahol a királyi család élt és a királyi udvar működött. A várban találhatóak továbbá múzeumok, kiállítások és emlékhelyek, amelyek bemutatják a magyar történelmet és kultúrát.
+
+A Halászbástya a Budai Vár egyik jellegzetes épülete. Ez a neogótikus stílusú épület lenyűgöző kilátást nyújt a városra és a Dunára. A Halászbástya a 19. században épült, és a halászok emlékére emelték, akik a középkorban a városfalakat őrizték.
+
+A Budai Vár és a Halászbástya együtt teszik vonzóvá a Budai Várnegyedet, és fontos részei Budapest kulturális és történelmi örökségének. A látogatók"
+Mi a kapcsolat a Parlament és a magyar törvényhozás között?,"A Parlament és a magyar törvényhozás között szoros kapcsolat van. A Parlament épülete Budapest szívében található, és itt ülésezik a Magyar Országgyűlés, amely a magyar törvényhozás legfelsőbb szerve.
+
+A Parlamentben találhatóak a legfontosabb kormányzati intézmények, ahol a törvényeket hozzák és a politikai döntéseket hozzák. Itt találhatóak a képviselőház és a szenátus üléstermei, ahol a parlamenti üléseket tartják.
+
+A magyar törvényhozás felelős a törvények elfogadásáért és a politikai döntések meghozataláért. A Parlamentben a képviselők vitatkoznak és szavaznak a javaslatokról, és itt történik a törvények elfogadása.
+
+A Parlament és a magyar törvényhozás együtt alkotják a magyar demokrácia és jogállamiság alapjait. A Parlament épülete tehát nemcsak a politikai hatalom szimbóluma, hanem a magyar demokrácia és jogállamiság jelképe is."
+Mi a legnagyobb közös osztója a 36 és 48 számoknak?,"A legnagyobb közös osztó (LNKO) meghatározásához használhatjuk az euklideszi algoritmust. Az euklideszi algoritmus lépései a következők:
+
+1. Kezdjük a két számmal, 36 és 48.
+2. Ha az egyik szám nulla, akkor a másik szám a LNKO.
+3. Különben osszuk el a nagyobb számot a kisebbel, majd a maradékot vegyük.
+4. Az osztás eredményeként kapott maradékot használjuk újra a kisebb számmal egy új osztás során.
+5. Ismételjük meg az előző lépést, amíg az osztás eredményeként kapott maradék nulla nem lesz.
+6. Az utolsó nem nulla maradék a LNKO.
+
+A 36 és 48 számok esetében a lépések a következők:
+
+36 / 48 = 0 maradék 36
+48 / 36 = 1 maradék 12
+36 / 12 = 3 maradék 0
+
+Tehát a 36 és 48 legnagyobb közös osztója 12."
+"Adj meg egy példát egy olyan matematikai problémára, amelyben a kombinatorika módszereket kell alkalmazni!","Az alábbiakban egy példát adok egy olyan matematikai problémára, amelyben a kombinatorika módszereket kell alkalmazni:
+
+Probléma: Egy dobozban 5 piros, 4 kék és 3 zöld golyó van. Hányféleképpen lehet kiválasztani 2 piros, 2 kék és 1 zöld golyót a dobozból?
+
+Megoldás: A probléma megoldásához alkalmazhatjuk a kombinatorika módszereket. A kiválasztás során a sorrend nem számít, tehát a kombinációkat kell meghatároznunk.
+
+Először meghatározzuk, hányféleképpen választhatunk ki 2 piros golyót a 5-ből. Ezt a kombinációt jelölhetjük C(5, 2)-vel, ahol C nCr-t jelent. A képlet a következő:
+
+C(5, 2) = 5! / (2! * (5-2)!) = 10
+
+Hasonlóképpen meghatározzuk, hányféleképpen választhatunk ki 2 kék golyót a 4-ből:
+
+C(4, 2) = 4! / (2! * (4"
+"Mi a valószínűsége annak, hogy egy dobókockával dobva legalább egyszer 6-ost dobunk 6 dobás során?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egy dobókockával dobva nem dobunk 6-ost egyetlen dobás során. Ezután kiszámítjuk a valószínűséget annak, hogy egy dobókockával dobva nem dobunk 6-ost egyetlen dobás során, majd kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egyszer dobunk 6-ost 6 dobás során.
+
+A dobókockának 6 oldala van, és mindegyik oldalán azonos valószínűséggel dobhatunk 1-től 6-ig. Tehát az egyik dobás során a valószínűség annak, hogy nem dobunk 6-ost, 5/6, mivel 5 olyan oldal van, amelyen nem szerepel a 6.
+
+A valószínűség annak, hogy 6 dobás során nem dobunk 6-ost, a következőképpen számítható:
+
+(5/6) * (5/6) * (5/6) * (5/6) * (5/6)"
+"Mi a valószínűsége annak, hogy egy pakliból húzva legalább egy ász van a kezünkben, ha a pakliban 52 kártya van és 4 ász?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egy pakliból húzva nincs ász a kezünkben. Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egy ász van a kezünkben.
+
+A pakliban összesen 52 kártya van, és közülük 4 ász. Tehát az egyik húzás során a valószínűség annak, hogy nem húzunk ászt, 48/52, mivel 48 olyan kártya van, amely nem ász.
+
+A valószínűség annak, hogy egyetlen húzás során nincs ász a kezünkben, a következőképpen számítható:
+
+(48/52) = 0.9231
+
+Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egy ász van a kezünkben:
+
+1 - 0.9231 = 0.0769
+
+Tehát a valószínűs"
+"Adj meg egy példát egy logikai problémára, amelyben a indukció vagy a dedukció módszereket kell alkalmazni!","Az alábbiakban egy példát adok egy logikai problémára, amelyben a dedukció módszert kell alkalmazni:
+
+Probléma: Minden macska szeret halat enni. Zoli egy macska. Tehát Zoli szeret halat enni?
+
+Megoldás: A dedukció módszerét alkalmazva, az állításokból következtetéseket vonhatunk le. Az első állítás szerint minden macska szeret halat enni. Ez azt jelenti, hogy minden macskára igaz, hogy szeret halat enni.
+
+A második állítás szerint Zoli egy macska. Tehát Zolira is igaz, hogy szeret halat enni, mivel minden macska szeret halat enni.
+
+Tehát a következtetésünk a dedukció alapján az, hogy Zoli szeret halat enni."
+"Mi a valószínűsége annak, hogy egy kockával dobva legalább egyszer 1-est dobunk 3 dobás során?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egy kockával dobva nem dobunk 1-est egyetlen dobás során. Ezután kiszámítjuk a valószínűséget annak, hogy egy kockával dobva nem dobunk 1-est egyetlen dobás során, majd kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egyszer dobunk 1-est 3 dobás során.
+
+A kockának 6 oldala van, és mindegyik oldalán azonos valószínűséggel dobhatunk 1-től 6-ig. Tehát az egyik dobás során a valószínűség annak, hogy nem dobunk 1-est, 5/6, mivel 5 olyan oldal van, amelyen nem szerepel az 1.
+
+A valószínűség annak, hogy 3 dobás során nem dobunk 1-est, a következőképpen számítható:
+
+(5/6) * (5/6) * (5/6) = 0.5787
+
+Ezután kivonjuk ezt az é"
+"Mi a valószínűsége annak, hogy egy kártyapakliból húzva legalább egy ász van a kezünkben, ha a pakliban 52 kártya van és 4 ász?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egy kártyapakliból húzva nincs ász a kezünkben. Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egy ász van a kezünkben.
+
+A pakliban összesen 52 kártya van, és közülük 4 ász. Tehát az egyik húzás során a valószínűség annak, hogy nem húzunk ász, 48/52, mivel 48 olyan kártya van, amely nem ász.
+
+A valószínűség annak, hogy egyetlen húzás során nincs ász a kezünkben, a következőképpen számítható:
+
+(48/52) = 0.9231
+
+Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egy ász van a kezünkben:
+
+1 - 0.9231 = 0.0769
+
+Tehát"
+"Mi a valószínűsége annak, hogy egy kockával dobva legalább egyszer 6-ost dobunk 6 dobás során?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egy kockával dobva nem dobunk 6-ost egyetlen dobás során. Ezután kiszámítjuk a valószínűséget annak, hogy egy kockával dobva nem dobunk 6-ost egyetlen dobás során, majd kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egyszer dobunk 6-ost 6 dobás során.
+
+A kockának 6 oldala van, és mindegyik oldalán azonos valószínűséggel dobhatunk 1-től 6-ig. Tehát az egyik dobás során a valószínűség annak, hogy nem dobunk 6-ost, 5/6, mivel 5 olyan oldal van, amelyen nem szerepel a 6.
+
+A valószínűség annak, hogy 6 dobás során nem dobunk 6-ost, a következőképpen számítható:
+
+(5/6) * (5/6) * (5/6) * (5/6) * (5/6) * (5/6) ="
+Mi a legnagyobb közös osztója a 24 és 36 számoknak?,"A legnagyobb közös osztó (LNKO) meghatározásához használhatjuk az euklideszi algoritmust. Az euklideszi algoritmus lépései a következők:
+
+1. Kezdjük a két számmal, 24 és 36.
+2. Ha az egyik szám nulla, akkor a másik szám a LNKO.
+3. Különben osszuk el a nagyobb számot a kisebbel, majd a maradékot vegyük.
+4. Az osztás eredményeként kapott maradékot használjuk újra a kisebb számmal egy új osztás során.
+5. Ismételjük meg az előző lépést, amíg az osztás eredményeként kapott maradék nulla nem lesz.
+6. Az utolsó nem nulla maradék a LNKO.
+
+A 24 és 36 számok esetében a lépések a következők:
+
+36 / 24 = 1 maradék 12
+24 / 12 = 2 maradék 0
+
+Tehát a 24 és 36 legnagyobb közös osztója 12."
+"Adj meg egy példát egy olyan matematikai problémára, amelyben a geometriai alakzatok tulajdonságait kell alkalmazni!","Az alábbiakban egy példát adok egy olyan matematikai problémára, amelyben a geometriai alakzatok tulajdonságait kell alkalmazni:
+
+Probléma: Adott egy téglalap, amelynek hossza 8 cm, és szélessége 5 cm. Mennyi a téglalap területe és kerülete?
+
+Megoldás: A téglalap területét a hossz és a szélesség szorzatával számíthatjuk ki:
+
+Terület = Hossz * Szélesség = 8 cm * 5 cm = 40 cm^2
+
+A téglalap kerületét pedig a hossz és a szélesség összegének kétszeresével számíthatjuk ki:
+
+Kerület = 2 * (Hossz + Szélesség) = 2 * (8 cm + 5 cm) = 2 * 13 cm = 26 cm
+
+Tehát a téglalap területe 40 négyzetcentiméter, és a kerülete 26 centiméter."
+Mi a legnagyobb közös osztója a 18 és 24 számoknak?,"A legnagyobb közös osztó (LNKO) meghatározásához használhatjuk az euklideszi algoritmust. Az euklideszi algoritmus lépései a következők:
+
+1. Kezdjük a két számmal, 18 és 24.
+2. Ha az egyik szám nulla, akkor a másik szám a LNKO.
+3. Különben osszuk el a nagyobb számot a kisebbel, majd a maradékot vegyük.
+4. Az osztás eredményeként kapott maradékot használjuk újra a kisebb számmal egy új osztás során.
+5. Ismételjük meg az előző lépést, amíg az osztás eredményeként kapott maradék nulla nem lesz.
+6. Az utolsó nem nulla maradék a LNKO.
+
+A 18 és 24 számok esetében a lépések a következők:
+
+24 / 18 = 1 maradék 6
+18 / 6 = 3 maradék 0
+
+Tehát a 18 és 24 legnagyobb közös osztója 6."
+"Adj meg egy példát egy olyan matematikai problémára, amelyben a valószínűségszámítás módszereit kell alkalmazni!","Az alábbiakban egy példát adok egy olyan matematikai problémára, amelyben a valószínűségszámítás módszereit kell alkalmazni:
+
+Probléma: Egy dobozban 5 piros, 4 kék és 3 zöld golyó van. Ha véletlenszerűen kihúzunk egy golyót a dobozból, mi a valószínűsége annak, hogy piros vagy kék golyót húzunk?
+
+Megoldás: A valószínűség kiszámításához először meghatározzuk a kedvező esetek számát, azaz a piros és kék golyók számát, majd ezt elosztjuk a lehetőségek számával, azaz az összes golyó számával.
+
+A kedvező esetek száma a piros és kék golyók száma, ami 5 + 4 = 9.
+
+Az összes golyó száma a piros, kék és zöld golyók összege, ami 5 + 4 + 3 = 12.
+
+A valószínűség tehát:
+
+Valószínűség = Kedvező esetek száma / Összes"
+"Adj meg egy példát egy olyan matematikai problémára, amelyben a valószínűségszámítás módszereit kell alkalmazni!","Az alábbiakban egy példát adok egy olyan matematikai problémára, amelyben a valószínűségszámítás módszereit kell alkalmazni:
+
+Probléma: Egy kockát dobunk 3-szor. Mi a valószínűsége annak, hogy legalább egyszer dobunk 1-est?
+
+Megoldás: A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egyetlen dobás során nem dobunk 1-est. Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egyszer dobunk 1-est.
+
+Egy kockán 6 különböző szám van, és közülük 1 az 1-es. Tehát az egyik dobás során a valószínűség annak, hogy nem dobunk 1-est, 5/6, mivel 5 olyan szám van, amely nem 1.
+
+A valószínűség annak, hogy egyetlen dobás során nem dobunk 1-est, a következőképpen számítható:
+
+(5/6) ="
+"Mi a valószínűsége annak, hogy egy kockát dobva legalább egyszer dobunk 6-ost, ha 6-szor dobunk?","A valószínűség kiszámításához először meghatározzuk a valószínűséget annak, hogy egyetlen dobás során nem dobunk 6-ost. Ezután kivonjuk ezt az értéket 1-ből, hogy megtudjuk a valószínűséget annak, hogy legalább egyszer dobunk 6-ost.
+
+Egy kockán 6 különböző szám van, és közülük 1 az 6-os. Tehát az egyik dobás során a valószínűség annak, hogy nem dobunk 6-ost, 5/6, mivel 5 olyan szám van, amely nem 6.
+
+A valószínűség annak, hogy egyetlen dobás során nem dobunk 6-ost, a következőképpen számítható:
+
+(5/6) = 0.8333
+
+Ezután kiszámítjuk a valószínűséget annak, hogy 6-szor dobva egyetlen dobásban sem dobunk 6-ost:
+
+(0.8333)^6 = 0.3349
+
+Tehát a valószínűsége annak, hogy legalább egyszer dobunk 6-ost 6 dobás során, kb. 0.6651"
+"Adj meg egy példát egy olyan matematikai problémára, amelyben a számelmélet módszereit kell alkalmazni!","Az alábbiakban egy példát adok egy olyan matematikai problémára, amelyben a számelmélet módszereit kell alkalmazni:
+
+Probléma: Határozd meg a legnagyobb közös osztóját a 24 és 36 számoknak!
+
+Megoldás: A legnagyobb közös osztó (LNKO) meghatározásához használhatjuk az euklideszi algoritmust. Az euklideszi algoritmus lépései a következők:
+
+1. Kezdjük a két számmal, 24 és 36.
+2. Ha az egyik szám nulla, akkor a másik szám a LNKO.
+3. Különben osszuk el a nagyobb számot a kisebbel, majd a maradékot vegyük.
+4. Az osztás eredményeként kapott maradékot használjuk újra a kisebb számmal egy új osztás során.
+5. Ismételjük meg az előző lépést, amíg az osztás eredményeként kapott maradék nulla nem lesz.
+6. Az utolsó nem nulla maradék a LNKO.
+
+A 24 és 36 számok esetében a lépések a következők:
+
+36 / 24 ="
